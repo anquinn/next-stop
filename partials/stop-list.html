@@ -1,0 +1,80 @@
+<!-- Fixed navbar -->
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">Biennial 2014</a>
+    </div>
+    <div class="navbar-collapse collapse">
+      <ul class="nav navbar-nav navbar-right">
+        <li class="active"><a href="index.html">Schedule</a></li>
+        <li><a href="#favourites">Favourites</a></li>
+        <li><a href="social.html">Twitter Stream</a></li>
+        <li><a href="map.html">Floor Plans</a></li>
+        <li><a href="about.html">About</a></li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div>
+</div>
+
+<div class="container">
+    <div class="row">
+      <!--Sidebar content-->
+
+      <form class="" role="search">
+        <div class="form-group">
+
+          <div class="input-group">
+            <input type="text" ng-model="query" class="form-control" placeholder="Search">
+            <span class="input-group-btn">
+              <button class="btn btn-default" type="button" ng-click="query = ''">X</button>
+            </span>
+          </div><!-- /input-group -->
+
+          <label for="categories">Session Themes</label>
+          <select ng-model="filters.category" id="categories" class="form-control">
+            <option value=""></option>
+            <option value="building">Building the Plan: Expert Panels</option>
+            <option value="policy">Policy Resolution Sessions</option>
+            <option value="campaign">Campaign Training</option>
+            <option value="parliament">Inside Parliament</option>
+          </select>
+          <!-- <select ng-model="filters.value" id="categories" class="form-control" ng-options="category.name for category in category">
+            <option value="">No filter</option>
+          </select> -->
+
+          <!-- Sort by: 
+
+          <select ng-model="orderProp" class="form-control">
+            <option value="name">Alphabetical</option>
+            <option value="age">Newest</option>
+          </select> -->
+        </div>
+      </form>
+
+    </div>
+
+    <div class="row">
+      <!--Body content-->
+
+      <ul class="events">
+        <li ng-repeat="event in events | filter:query | filter: {category: filters.category} | orderBy:'start'" class="thumbnail event-listing" ng-class="{building: event.category == 'building', policy: event.category == 'policy', campaign: event.category == 'campaign', parliament: event.category == 'parliament'}" >
+          <div class="star">
+            <span class="glyphicon " ng-click="addItem(event)" ng-class="{'glyphicon-star': isFavourite(event) == true, 'glyphicon-star-empty': isFavourite(event) == false}"></span>
+          </div>
+          <!-- <a href="#/events/{{event.id}}" class="thumb"><img ng-src="{{event.imageUrl}}"></a> -->
+          <a href="#/events/{{event.id}}">{{event.name}}</a>
+          <p>{{ event.start | date: "EEEE" }}</p>
+          <p>{{ event.start | date: "shortTime"}} <span ng-if="event.end"> - </span> {{event.end | date: "shortTime" }}</p>
+          <p>{{event.snippet}}</p>
+          <p>{{event.location}}</p>
+        </li>
+      </ul>
+
+    </div>
+</div>
