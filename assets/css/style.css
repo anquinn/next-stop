@@ -1,0 +1,26 @@
+.times-list {
+  text-align: center;
+  list-style: none;
+  padding: 0;
+}
+.time {
+  clear: both;
+  border-bottom: 1px solid #000;
+}
+.time:after {
+  content: ".";
+  visibility: hidden;
+  display: block;
+  height: 0;
+  clear: both;
+}
+.route {
+  float: left;
+  font-size: 30px;
+}
+.stop-time {
+  float: right;
+  font-size: 22px;
+  padding-right: 30%;
+  padding-top: 10px;
+}
