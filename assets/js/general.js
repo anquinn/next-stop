@@ -41,7 +41,7 @@ function currentLocation(position){
 		var latitude = position.coords.latitude;
 		var longitude = position.coords.longitude;
 		//currentlatlng = new google.maps.LatLng(latitude, longitude);
-		console.log ("current position is: " + currentlatlng)
+		console.log ("current position is: " + latitude + ", " + longitude);
 		//show_map(currentlatlng);
 }
 
