@@ -77,11 +77,14 @@ function findClosest(lat, lon){
             /* Outputting the stop code and name for closest stop */
             console.log(currCloseStop.stop_code);
             console.log(currCloseStop.stop_name);
+			getBusList(currCloseStop, json);
         },
         error: function () {
         	alert("failed!");
         }
     });
+
+
 }
 
 /* kick shit off */
@@ -93,4 +96,35 @@ $(document).ready(function(){
 
 Number.prototype.toRad = function() {
     return this * Math.PI / 180;
+}
+
+
+function crossWithStopTime(busList){
+	$.ajax({
+		url: 'assets/json/stop_times.json',
+		dataType: 'json',
+		success: function(json){
+			console.log(json.length);
+		},
+		error: function(){
+			console.log("Error");
+		}
+	});
+}
+
+
+/* busStopInfo is a json object which contains the information for the closest stop 
+   allStops is the json data read in from the file (removing redunduncy of re-reading a file)
+*/
+function getBusList(busStopInfo, allStops){
+	var busList = new Array();
+	var i = 0;
+	var j = 0;
+
+	for(i = 0; i < allStops.length; i++){
+		if(busStopInfo.stop_id == allStops[i].stop_id){
+			busList[j] = allStops[i];
+			console.log(busList[i].stop_id);
+		}
+	}
 }
