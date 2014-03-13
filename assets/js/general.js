@@ -47,11 +47,11 @@ function findClosest(lat, lon){
         	var closestStop = 50;		/* Distance placeholder */
         	var diffLat = 0;			/* Distance of the latitude from user to stop */
         	var diffLon = 0;			/* Distance of the longititude from user to stop */
-        	var R = 6371; 				/* Radius of the Earth in KM */
+        	var R = 6371;				/* Radius of the Earth in KM */
         	var stopLat = 0;			/* Bus stop's latitude */
         	var userLat = lat.toRad();	/* Bus stop's latitude */
         	var a = 0;					/* Haversine formula to calc the shortest distance over the Earth's surface between two points */
-        	var c = 0; 					/* Further part of formula */
+        	var c = 0;					/* Further part of formula */
         	var d = 0;					/* Distance between the two points */
         	var currCloseStop = null;	/* Closest stop to user (JSON object) */
 
@@ -62,7 +62,7 @@ function findClosest(lat, lon){
 	            stopLat = json[i].stop_lat.toRad();
 	            userLat = lat.toRad();
 
-	            //Haversine formula to calc the shortest difference over the Earth's surface between two points
+	            /* Haversine formula to calc the shortest difference over the Earth's surface between two points */
 	            a = Math.sin(diffLat/2) * Math.sin(diffLat/2) +
 	                    Math.sin(diffLon/2) * Math.sin(diffLon/2) * Math.cos(stopLat) * Math.cos(userLat); 
 	            c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a)); 
