@@ -505,7 +505,7 @@
   },
   {
     "stop_id":"Route2B-0250_Guelph Central Station",
-    "stop_code":0250,
+    "stop_code":250,
     "stop_name":"Guelph Central Station",
     "stop_desc":"",
     "stop_lat":43.545180,
@@ -517,7 +517,7 @@
   },
   {
     "stop_id":"Route2B-0251_Wyndham St. at Bank of Nova Scotia",
-    "stop_code":0251,
+    "stop_code":251,
     "stop_name":"Wyndham St. at Bank of Nova Scotia",
     "stop_desc":"",
     "stop_lat":43.546441,
@@ -529,7 +529,7 @@
   },
   {
     "stop_id":"Route2B-0252_Woolwich St. at Cardigan St.",
-    "stop_code":0252,
+    "stop_code":252,
     "stop_name":"Woolwich St. at Cardigan St.",
     "stop_desc":"",
     "stop_lat":43.548158,
@@ -541,7 +541,7 @@
   },
   {
     "stop_id":"Route2B-0253_Woolwich St. at Norwich St.",
-    "stop_code":0253,
+    "stop_code":253,
     "stop_name":"Woolwich St. at Norwich St.",
     "stop_desc":"",
     "stop_lat":43.548768,
@@ -553,7 +553,7 @@
   },
   {
     "stop_id":"Route2B-0254_Woolwich St. at London Rd.",
-    "stop_code":0254,
+    "stop_code":254,
     "stop_name":"Woolwich St. at London Rd.",
     "stop_desc":"",
     "stop_lat":43.550097,
@@ -565,7 +565,7 @@
   },
   {
     "stop_id":"Route2B-0255_Woolwich St. at Kerr St.",
-    "stop_code":0255,
+    "stop_code":255,
     "stop_name":"Woolwich St. at Kerr St.",
     "stop_desc":"",
     "stop_lat":43.551876,
@@ -577,7 +577,7 @@
   },
   {
     "stop_id":"Route2B-0256_Woolwich St. at Powell St.",
-    "stop_code":0256,
+    "stop_code":256,
     "stop_name":"Woolwich St. at Powell St.",
     "stop_desc":"",
     "stop_lat":43.553105,
@@ -589,7 +589,7 @@
   },
   {
     "stop_id":"Route2B-0257_Woolwich St. at Earl St.",
-    "stop_code":0257,
+    "stop_code":257,
     "stop_name":"Woolwich St. at Earl St.",
     "stop_desc":"",
     "stop_lat":43.555942,
@@ -601,7 +601,7 @@
   },
   {
     "stop_id":"Route2B-0258_Woolwich St. at Speedvale Ave.",
-    "stop_code":0258,
+    "stop_code":258,
     "stop_name":"Woolwich St. at Speedvale Ave.",
     "stop_desc":"",
     "stop_lat":43.558046,
@@ -613,7 +613,7 @@
   },
   {
     "stop_id":"Route2B-0259_Woolwich St. at Evergreen",
-    "stop_code":0259,
+    "stop_code":259,
     "stop_name":"Woolwich St. at Evergreen",
     "stop_desc":"",
     "stop_lat":43.560206,
@@ -625,7 +625,7 @@
   },
   {
     "stop_id":"Route2B-0260_Woolwich St. at Marilyn Dr.",
-    "stop_code":0260,
+    "stop_code":260,
     "stop_name":"Woolwich St. at Marilyn Dr.",
     "stop_desc":"",
     "stop_lat":43.561971,
@@ -637,7 +637,7 @@
   },
   {
     "stop_id":"Route2B-0261_Smart Centre Guelph",
-    "stop_code":0261,
+    "stop_code":261,
     "stop_name":"Smart Centre Guelph",
     "stop_desc":"",
     "stop_lat":43.564940,
@@ -649,7 +649,7 @@
   },
   {
     "stop_id":"Route2B-0262_Woodlawn Rd. W. at Nicklin Rd.",
-    "stop_code":0262,
+    "stop_code":262,
     "stop_name":"Woodlawn Rd. W. at Nicklin Rd.",
     "stop_desc":"",
     "stop_lat":43.561001,
@@ -661,7 +661,7 @@
   },
   {
     "stop_id":"Route2B-0263_Woodlawn Rd. W. at Edinburgh Rd. N.",
-    "stop_code":0263,
+    "stop_code":263,
     "stop_name":"Woodlawn Rd. W. at Edinburgh Rd. N.",
     "stop_desc":"",
     "stop_lat":43.558487,
@@ -673,7 +673,7 @@
   },
   {
     "stop_id":"Route2B-0264_Woodlawn Rd. W. at Dawson Rd.",
-    "stop_code":0264,
+    "stop_code":264,
     "stop_name":"Woodlawn Rd. W. at Dawson Rd.",
     "stop_desc":"",
     "stop_lat":43.556826,
@@ -685,7 +685,7 @@
   },
   {
     "stop_id":"Route2B-0265_Woodlawn Rd. W. at Arrow Rd.",
-    "stop_code":0265,
+    "stop_code":265,
     "stop_name":"Woodlawn Rd. W. at Arrow Rd.",
     "stop_desc":"",
     "stop_lat":43.554156,
@@ -697,7 +697,7 @@
   },
   {
     "stop_id":"Route2B-0266_Woodlawn Rd. W. at Silvercreek Pkwy. N.",
-    "stop_code":0266,
+    "stop_code":266,
     "stop_name":"Woodlawn Rd. W. at Silvercreek Pkwy. N.",
     "stop_desc":"",
     "stop_lat":43.551719,
@@ -709,7 +709,7 @@
   },
   {
     "stop_id":"Route2B-0267_Woodlawn Rd. W. at Regal Rd.",
-    "stop_code":0267,
+    "stop_code":267,
     "stop_name":"Woodlawn Rd. W. at Regal Rd.",
     "stop_desc":"",
     "stop_lat":43.548709,
@@ -721,7 +721,7 @@
   },
   {
     "stop_id":"Route2B-0268_Woodlawn Rd. W. at Royal Rd.",
-    "stop_code":0268,
+    "stop_code":268,
     "stop_name":"Woodlawn Rd. W. at Royal Rd.",
     "stop_desc":"",
     "stop_lat":43.546404,
@@ -733,7 +733,7 @@
   },
   {
     "stop_id":"Route2B-0269_Imperial Rd. N. at Woodlawn Rd. W.",
-    "stop_code":0269,
+    "stop_code":269,
     "stop_name":"Imperial Rd. N. at Woodlawn Rd. W.",
     "stop_desc":"",
     "stop_lat":43.543469,
@@ -745,7 +745,7 @@
   },
   {
     "stop_id":"Route2B-0270_Massey Rd. at Imperial Rd. N.",
-    "stop_code":0270,
+    "stop_code":270,
     "stop_name":"Massey Rd. at Imperial Rd. N.",
     "stop_desc":"",
     "stop_lat":43.540880,
@@ -757,7 +757,7 @@
   },
   {
     "stop_id":"Route2B-0271_Royal Rd. at Massey Rd.",
-    "stop_code":0271,
+    "stop_code":271,
     "stop_name":"Royal Rd. at Massey Rd.",
     "stop_desc":"",
     "stop_lat":43.542591,
@@ -769,7 +769,7 @@
   },
   {
     "stop_id":"Route2B-0272_Royal at ARC Industries",
-    "stop_code":0272,
+    "stop_code":272,
     "stop_name":"Royal at ARC Industries",
     "stop_desc":"",
     "stop_lat":43.539916,
@@ -781,7 +781,7 @@
   },
   {
     "stop_id":"Route2B-0273_Imperial Rd. N. at Speedvale Ave. W.",
-    "stop_code":0273,
+    "stop_code":273,
     "stop_name":"Imperial Rd. N. at Speedvale Ave. W.",
     "stop_desc":"",
     "stop_lat":43.536579,
@@ -793,7 +793,7 @@
   },
   {
     "stop_id":"Route2B-0274_Imperial Rd. N. at Thornhill Dr.",
-    "stop_code":0274,
+    "stop_code":274,
     "stop_name":"Imperial Rd. N. at Thornhill Dr.",
     "stop_desc":"",
     "stop_lat":43.534097297637125,
@@ -805,7 +805,7 @@
   },
   {
     "stop_id":"Route2B-0275_Imperial Rd. N. at Kipling Ave.",
-    "stop_code":0275,
+    "stop_code":275,
     "stop_name":"Imperial Rd. N. at Kipling Ave.",
     "stop_desc":"",
     "stop_lat":43.530773,
@@ -817,7 +817,7 @@
   },
   {
     "stop_id":"Route2B-0276_Imperial Rd. N. at Willow Rd.",
-    "stop_code":0276,
+    "stop_code":276,
     "stop_name":"Imperial Rd. N. at Willow Rd.",
     "stop_desc":"",
     "stop_lat":43.528717,
@@ -829,7 +829,7 @@
   },
   {
     "stop_id":"Route2B-0277_Willow Rd. at Flaherty Dr.",
-    "stop_code":0277,
+    "stop_code":277,
     "stop_name":"Willow Rd. at Flaherty Dr.",
     "stop_desc":"",
     "stop_lat":43.527623,
@@ -841,7 +841,7 @@
   },
   {
     "stop_id":"Route2B-0278_Elmira Rd. at West End Community Centre",
-    "stop_code":0278,
+    "stop_code":278,
     "stop_name":"Elmira Rd. at West End Community Centre",
     "stop_desc":"",
     "stop_lat":43.523239,
@@ -853,7 +853,7 @@
   },
   {
     "stop_id":"Route2B-0279_Elmira Rd.at Paisley",
-    "stop_code":0279,
+    "stop_code":279,
     "stop_name":"Elmira Rd.at Paisley",
     "stop_desc":"",
     "stop_lat":43.521827,
@@ -865,7 +865,7 @@
   },
   {
     "stop_id":"Route2B-0280_Elmira Rd. at Fresh Meadow Way",
-    "stop_code":0280,
+    "stop_code":280,
     "stop_name":"Elmira Rd. at Fresh Meadow Way",
     "stop_desc":"",
     "stop_lat":43.518734,
@@ -877,7 +877,7 @@
   },
   {
     "stop_id":"Route2B-0281_Elmira Rd. at Rochelle Dr.",
-    "stop_code":0281,
+    "stop_code":281,
     "stop_name":"Elmira Rd. at Rochelle Dr.",
     "stop_desc":"",
     "stop_lat":43.516498,
@@ -889,7 +889,7 @@
   },
   {
     "stop_id":"Route2B-0282_Fife Rd. at Elmira Rd.",
-    "stop_code":0282,
+    "stop_code":282,
     "stop_name":"Fife Rd. at Elmira Rd.",
     "stop_desc":"",
     "stop_lat":43.513936,
@@ -901,7 +901,7 @@
   },
   {
     "stop_id":"Route2B-0283_Fife Rd. at Gateway Dr.",
-    "stop_code":0283,
+    "stop_code":283,
     "stop_name":"Fife Rd. at Gateway Dr.",
     "stop_desc":"",
     "stop_lat":43.513878,
@@ -913,7 +913,7 @@
   },
   {
     "stop_id":"Route2B-0284_26 Fife Rd. at Coop",
-    "stop_code":0284,
+    "stop_code":284,
     "stop_name":"26 Fife Rd. at Coop",
     "stop_desc":"",
     "stop_lat":43.517774,
@@ -925,7 +925,7 @@
   },
   {
     "stop_id":"Route2B-0285_Wellington St. W. at Wastewater Treatment Plant",
-    "stop_code":0285,
+    "stop_code":285,
     "stop_name":"Wellington St. W. at Wastewater Treatment Plant",
     "stop_desc":"",
     "stop_lat":43.522874,
@@ -937,7 +937,7 @@
   },
   {
     "stop_id":"Route2B-0286_Stone Rd. W. at Scottsdale Dr.",
-    "stop_code":0286,
+    "stop_code":286,
     "stop_name":"Stone Rd. W. at Scottsdale Dr.",
     "stop_desc":"",
     "stop_lat":43.516108,
@@ -949,7 +949,7 @@
   },
   {
     "stop_id":"Route2B-0287_372 Stone Rd. W.",
-    "stop_code":0287,
+    "stop_code":287,
     "stop_name":"372 Stone Rd. W.",
     "stop_desc":"",
     "stop_lat":43.517578,
@@ -961,7 +961,7 @@
   },
   {
     "stop_id":"Route2B-0288_292 Stone Rd. W.",
-    "stop_code":0288,
+    "stop_code":288,
     "stop_name":"292 Stone Rd. W.",
     "stop_desc":"",
     "stop_lat":43.519475,
@@ -973,7 +973,7 @@
   },
   {
     "stop_id":"Route2B-0289_Stone Rd. opposite Zellers",
-    "stop_code":0289,
+    "stop_code":289,
     "stop_name":"Stone Rd. opposite Zellers",
     "stop_desc":"",
     "stop_lat":43.521656,
@@ -985,7 +985,7 @@
   },
   {
     "stop_id":"Route2B-0290_95 Stone Rd. W.",
-    "stop_code":0290,
+    "stop_code":290,
     "stop_name":"95 Stone Rd. W.",
     "stop_desc":"",
     "stop_lat":43.524669,
@@ -997,7 +997,7 @@
   },
   {
     "stop_id":"Route2B-0291_University Centre",
-    "stop_code":0291,
+    "stop_code":291,
     "stop_name":"University Centre",
     "stop_desc":"",
     "stop_lat":43.530139,
@@ -1009,7 +1009,7 @@
   },
   {
     "stop_id":"Route2B-0292_Gordon St. at Vet College",
-    "stop_code":0292,
+    "stop_code":292,
     "stop_name":"Gordon St. at Vet College",
     "stop_desc":"",
     "stop_lat":43.531442,
@@ -1021,7 +1021,7 @@
   },
   {
     "stop_id":"Route2B-0293_Gordon St. at Macdonald Stewart Art Centre",
-    "stop_code":0293,
+    "stop_code":293,
     "stop_name":"Gordon St. at Macdonald Stewart Art Centre",
     "stop_desc":"",
     "stop_lat":43.532842,
@@ -1033,7 +1033,7 @@
   },
   {
     "stop_id":"Route2B-0294_Gordon St. at Dormie Lane",
-    "stop_code":0294,
+    "stop_code":294,
     "stop_name":"Gordon St. at Dormie Lane",
     "stop_desc":"",
     "stop_lat":43.536904,
@@ -1045,7 +1045,7 @@
   },
   {
     "stop_id":"Route2B-0295_Gordon St. at Water St.",
-    "stop_code":0295,
+    "stop_code":295,
     "stop_name":"Gordon St. at Water St.",
     "stop_desc":"",
     "stop_lat":43.538124,
@@ -1057,7 +1057,7 @@
   },
   {
     "stop_id":"Route2B-0296_Wellington St. at Wellington Plaza",
-    "stop_code":0296,
+    "stop_code":296,
     "stop_name":"Wellington St. at Wellington Plaza",
     "stop_desc":"",
     "stop_lat":43.541440,
@@ -1069,7 +1069,7 @@
   },
   {
     "stop_id":"Route2B-0297_Wyndham St. at Fountain St.",
-    "stop_code":0297,
+    "stop_code":297,
     "stop_name":"Wyndham St. at Fountain St.",
     "stop_desc":"",
     "stop_lat":43.543369,
@@ -1081,7 +1081,7 @@
   },
   {
     "stop_id":"Route2B-0298_Guelph Central Station",
-    "stop_code":0298,
+    "stop_code":298,
     "stop_name":"Guelph Central Station",
     "stop_desc":"",
     "stop_lat":43.545892,
@@ -1093,7 +1093,7 @@
   },
   {
     "stop_id":"Route3B-0350_Guelph Central Station",
-    "stop_code":0350,
+    "stop_code":350,
     "stop_name":"Guelph Central Station",
     "stop_desc":"",
     "stop_lat":43.545180,
@@ -1105,7 +1105,7 @@
   },
   {
     "stop_id":"Route3B-0351_Gordon St. at Nottingham St.",
-    "stop_code":0351,
+    "stop_code":351,
     "stop_name":"Gordon St. at Nottingham St.",
     "stop_desc":"",
     "stop_lat":43.541749,
@@ -1117,7 +1117,7 @@
   },
   {
     "stop_id":"Route3B-0352_Gordon St. at Wellington St.",
-    "stop_code":0352,
+    "stop_code":352,
     "stop_name":"Gordon St. at Wellington St.",
     "stop_desc":"",
     "stop_lat":43.540815,
@@ -1129,7 +1129,7 @@
   },
   {
     "stop_id":"Route3B-0353_Gordon St. at Water St.",
-    "stop_code":0353,
+    "stop_code":353,
     "stop_name":"Gordon St. at Water St.",
     "stop_desc":"",
     "stop_lat":43.53833,
@@ -1141,7 +1141,7 @@
   },
   {
     "stop_id":"Route3B-0354_Gordon St. at Forbes Ave.",
-    "stop_code":0354,
+    "stop_code":354,
     "stop_name":"Gordon St. at Forbes Ave.",
     "stop_desc":"",
     "stop_lat":43.537154,
@@ -1153,7 +1153,7 @@
   },
   {
     "stop_id":"Route3B-0355_Gordon St. at Dean Ave.",
-    "stop_code":0355,
+    "stop_code":355,
     "stop_name":"Gordon St. at Dean Ave.",
     "stop_desc":"",
     "stop_lat":43.534009,
@@ -1165,7 +1165,7 @@
   },
   {
     "stop_id":"Route3B-0356_Gordon St. at College Ave.",
-    "stop_code":0356,
+    "stop_code":356,
     "stop_name":"Gordon St. at College Ave.",
     "stop_desc":"",
     "stop_lat":43.531512,
@@ -1177,7 +1177,7 @@
   },
   {
     "stop_id":"Route3B-0357_University Centre",
-    "stop_code":0357,
+    "stop_code":357,
     "stop_name":"University Centre",
     "stop_desc":"",
     "stop_lat":43.529922,
@@ -1189,7 +1189,7 @@
   },
   {
     "stop_id":"Route3B-0358_Stone Rd. E. at Arbour Medical Centre",
-    "stop_code":0358,
+    "stop_code":358,
     "stop_name":"Stone Rd. E. at Arbour Medical Centre",
     "stop_desc":"",
     "stop_lat":43.533101,
@@ -1201,7 +1201,7 @@
   },
   {
     "stop_id":"Route3B-0359_Victoria Rd. S. at Stone Rd. E.",
-    "stop_code":0359,
+    "stop_code":359,
     "stop_name":"Victoria Rd. S. at Stone Rd. E.",
     "stop_desc":"",
     "stop_lat":43.538966,
@@ -1213,7 +1213,7 @@
   },
   {
     "stop_id":"Route3B-0360_535 York Rd. at Tim Hortons",
-    "stop_code":0360,
+    "stop_code":360,
     "stop_name":"535 York Rd. at Tim Hortons",
     "stop_desc":"",
     "stop_lat":43.552095,
@@ -1225,7 +1225,7 @@
   },
   {
     "stop_id":"Route3B-0361_York Rd. at Beaumont Cres.",
-    "stop_code":0361,
+    "stop_code":361,
     "stop_name":"York Rd. at Beaumont Cres.",
     "stop_desc":"",
     "stop_lat":43.554649,
@@ -1237,7 +1237,7 @@
   },
   {
     "stop_id":"Route3B-0362_728 York Rd.",
-    "stop_code":0362,
+    "stop_code":362,
     "stop_name":"728 York Rd.",
     "stop_desc":"",
     "stop_lat":43.556909,
@@ -1249,7 +1249,7 @@
   },
   {
     "stop_id":"Route3B-0363_785 York Rd.",
-    "stop_code":0363,
+    "stop_code":363,
     "stop_name":"785 York Rd.",
     "stop_desc":"",
     "stop_lat":43.558812,
@@ -1261,7 +1261,7 @@
   },
   {
     "stop_id":"Route3B-0364_York Rd. At Watson Pkwy. N.",
-    "stop_code":0364,
+    "stop_code":364,
     "stop_name":"York Rd. At Watson Pkwy. N.",
     "stop_desc":"",
     "stop_lat":43.561500,
@@ -1273,7 +1273,7 @@
   },
   {
     "stop_id":"Route3B-0365_Watson Pkwy. N. opposite Library",
-    "stop_code":0365,
+    "stop_code":365,
     "stop_name":"Watson Pkwy. N. opposite Library",
     "stop_desc":"",
     "stop_lat":43.566523,
@@ -1285,7 +1285,7 @@
   },
   {
     "stop_id":"Route3B-0366_Watson Pkwy. N. at Fleming Rd.",
-    "stop_code":0366,
+    "stop_code":366,
     "stop_name":"Watson Pkwy. N. at Fleming Rd.",
     "stop_desc":"",
     "stop_lat":43.570403,
@@ -1297,7 +1297,7 @@
   },
   {
     "stop_id":"Route3B-0367_Watson Pkwy. N. at Grange Rd.",
-    "stop_code":0367,
+    "stop_code":367,
     "stop_name":"Watson Pkwy. N. at Grange Rd.",
     "stop_desc":"",
     "stop_lat":43.573888,
@@ -1309,7 +1309,7 @@
   },
   {
     "stop_id":"Route3B-0368_Watson Pkwy. N. at  Eastview Rd.",
-    "stop_code":0368,
+    "stop_code":368,
     "stop_name":"Watson Pkwy. N. at  Eastview Rd.",
     "stop_desc":"",
     "stop_lat":43.577843,
@@ -1321,7 +1321,7 @@
   },
   {
     "stop_id":"Route3B-0369_Eastview Rd. at Summit Ridge Dr.",
-    "stop_code":0369,
+    "stop_code":369,
     "stop_name":"Eastview Rd. at Summit Ridge Dr.",
     "stop_desc":"",
     "stop_lat":43.572774,
@@ -1333,7 +1333,7 @@
   },
   {
     "stop_id":"Route3B-0370_Eastview Rd. at Starwood Dr.",
-    "stop_code":0370,
+    "stop_code":370,
     "stop_name":"Eastview Rd. at Starwood Dr.",
     "stop_desc":"",
     "stop_lat":43.570083,
@@ -1345,7 +1345,7 @@
   },
   {
     "stop_id":"Route3B-0371_Eastview Rd. at Mountford Dr.",
-    "stop_code":0371,
+    "stop_code":371,
     "stop_name":"Eastview Rd. at Mountford Dr.",
     "stop_desc":"",
     "stop_lat":43.567393,
@@ -1357,7 +1357,7 @@
   },
   {
     "stop_id":"Route3B-0372_Eastview Rd. at Victoria Rd.",
-    "stop_code":0372,
+    "stop_code":372,
     "stop_name":"Eastview Rd. at Victoria Rd.",
     "stop_desc":"",
     "stop_lat":43.565032,
@@ -1369,7 +1369,7 @@
   },
   {
     "stop_id":"Route3B-0373_211 Victoria Rd. N.",
-    "stop_code":0373,
+    "stop_code":373,
     "stop_name":"211 Victoria Rd. N.",
     "stop_desc":"",
     "stop_lat":43.567067,
@@ -1381,7 +1381,7 @@
   },
   {
     "stop_id":"Route3B-0374_Victoria Rd. N. at Eramosa Rd.",
-    "stop_code":0374,
+    "stop_code":374,
     "stop_name":"Victoria Rd. N. at Eramosa Rd.",
     "stop_desc":"",
     "stop_lat":43.56962,
@@ -1393,7 +1393,7 @@
   },
   {
     "stop_id":"Route3B-0375_Victoria Rd. N. at Speedvale Ave. E.",
-    "stop_code":0375,
+    "stop_code":375,
     "stop_name":"Victoria Rd. N. at Speedvale Ave. E.",
     "stop_desc":"",
     "stop_lat":43.57197,
@@ -1405,7 +1405,7 @@
   },
   {
     "stop_id":"Route3B-0376_Victoria Rd. N. at Brant Ave.",
-    "stop_code":0376,
+    "stop_code":376,
     "stop_name":"Victoria Rd. N. at Brant Ave.",
     "stop_desc":"",
     "stop_lat":43.575281,
@@ -1417,7 +1417,7 @@
   },
   {
     "stop_id":"Route3B-0377_Victoria Rd. N. at Woodlawn Rd. E.",
-    "stop_code":0377,
+    "stop_code":377,
     "stop_name":"Victoria Rd. N. at Woodlawn Rd. E.",
     "stop_desc":"",
     "stop_lat":43.578063,
@@ -1429,7 +1429,7 @@
   },
   {
     "stop_id":"Route3B-0378_Victoria Rd. N. opposite Trillium Waldorf",
-    "stop_code":0378,
+    "stop_code":378,
     "stop_name":"Victoria Rd. N. opposite Trillium Waldorf",
     "stop_desc":"",
     "stop_lat":43.580826,
@@ -1441,7 +1441,7 @@
   },
   {
     "stop_id":"Route3B-0379_Inverness Dr. at Wilton Rd.",
-    "stop_code":0379,
+    "stop_code":379,
     "stop_name":"Inverness Dr. at Wilton Rd.",
     "stop_desc":"",
     "stop_lat":43.579009,
@@ -1453,7 +1453,7 @@
   },
   {
     "stop_id":"Route3B-0380_Inverness Dr. at Woodlawn Rd.",
-    "stop_code":0380,
+    "stop_code":380,
     "stop_name":"Inverness Dr. at Woodlawn Rd.",
     "stop_desc":"",
     "stop_lat":43.576353,
@@ -1465,7 +1465,7 @@
   },
   {
     "stop_id":"Route3B-0381_Woodlawn Rd. E. at Golfview Dr.",
-    "stop_code":0381,
+    "stop_code":381,
     "stop_name":"Woodlawn Rd. E. at Golfview Dr.",
     "stop_desc":"",
     "stop_lat":43.574227,
@@ -1477,7 +1477,7 @@
   },
   {
     "stop_id":"Route3B-0382_Woodlawn Rd. E. at Country Club Dr.",
-    "stop_code":0382,
+    "stop_code":382,
     "stop_name":"Woodlawn Rd. E. at Country Club Dr.",
     "stop_desc":"",
     "stop_lat":43.571818,
@@ -1489,7 +1489,7 @@
   },
   {
     "stop_id":"Route3B-0383_Woodlawn Rd. E. at Riverside Glen",
-    "stop_code":0383,
+    "stop_code":383,
     "stop_name":"Woodlawn Rd. E. at Riverside Glen",
     "stop_desc":"",
     "stop_lat":43.568609,
@@ -1501,7 +1501,7 @@
   },
   {
     "stop_id":"Route3B-0384_Woodlawn Rd. E. at Canadian Tire",
-    "stop_code":0384,
+    "stop_code":384,
     "stop_name":"Woodlawn Rd. E. at Canadian Tire",
     "stop_desc":"",
     "stop_lat":43.566001,
@@ -1513,7 +1513,7 @@
   },
   {
     "stop_id":"Route3B-0385_Smart Centre Guelph",
-    "stop_code":0385,
+    "stop_code":385,
     "stop_name":"Smart Centre Guelph",
     "stop_desc":"",
     "stop_lat":43.56494,
@@ -1525,7 +1525,7 @@
   },
   {
     "stop_id":"Route3B-0386_Nicklin Rd. at Burns Dr.",
-    "stop_code":0386,
+    "stop_code":386,
     "stop_name":"Nicklin Rd. at Burns Dr.",
     "stop_desc":"",
     "stop_lat":43.558355,
@@ -1537,7 +1537,7 @@
   },
   {
     "stop_id":"Route3B-0387_Bailey Ave. at Kathleen St.",
-    "stop_code":0387,
+    "stop_code":387,
     "stop_name":"Bailey Ave. at Kathleen St.",
     "stop_desc":"",
     "stop_lat":43.557298,
@@ -1549,7 +1549,7 @@
   },
   {
     "stop_id":"Route3B-0388_Kathleen St. at Speedvale Ave. W.",
-    "stop_code":0388,
+    "stop_code":388,
     "stop_name":"Kathleen St. at Speedvale Ave. W.",
     "stop_desc":"",
     "stop_lat":43.555549,
@@ -1561,7 +1561,7 @@
   },
   {
     "stop_id":"Route3B-0389_Westmount Rd. at Kimberley Dr.",
-    "stop_code":0389,
+    "stop_code":389,
     "stop_name":"Westmount Rd. at Kimberley Dr.",
     "stop_desc":"",
     "stop_lat":43.553154,
@@ -1573,7 +1573,7 @@
   },
   {
     "stop_id":"Route3B-0390_St. Joseph's Health Centre",
-    "stop_code":0390,
+    "stop_code":390,
     "stop_name":"St. Joseph's Health Centre",
     "stop_desc":"",
     "stop_lat":43.549794,
@@ -1585,7 +1585,7 @@
   },
   {
     "stop_id":"Route3B-0391_Westmount Rd. at Division St.",
-    "stop_code":0391,
+    "stop_code":391,
     "stop_name":"Westmount Rd. at Division St.",
     "stop_desc":"",
     "stop_lat":43.550158,
@@ -1597,7 +1597,7 @@
   },
   {
     "stop_id":"Route3B-0392_Westmount Rd. at Lourdes",
-    "stop_code":0392,
+    "stop_code":392,
     "stop_name":"Westmount Rd. at Lourdes",
     "stop_desc":"",
     "stop_lat":43.548554,
@@ -1609,7 +1609,7 @@
   },
   {
     "stop_id":"Route3B-0393_Westmount Rd. at London Rd. W.",
-    "stop_code":0393,
+    "stop_code":393,
     "stop_name":"Westmount Rd. at London Rd. W.",
     "stop_desc":"",
     "stop_lat":43.545476,
@@ -1621,7 +1621,7 @@
   },
   {
     "stop_id":"Route3B-0394_Yorkshire St. N. at Home St.",
-    "stop_code":0394,
+    "stop_code":394,
     "stop_name":"Yorkshire St. N. at Home St.",
     "stop_desc":"",
     "stop_lat":43.545781,
@@ -1633,7 +1633,7 @@
   },
   {
     "stop_id":"Route3B-0395_Suffolk St. at Glasgow St.",
-    "stop_code":0395,
+    "stop_code":395,
     "stop_name":"Suffolk St. at Glasgow St.",
     "stop_desc":"",
     "stop_lat":43.545368,
@@ -1645,7 +1645,7 @@
   },
   {
     "stop_id":"Route3B-0396_Suffolk St. at Dublin St. Church",
-    "stop_code":0396,
+    "stop_code":396,
     "stop_name":"Suffolk St. at Dublin St. Church",
     "stop_desc":"",
     "stop_lat":43.546335,
@@ -1657,7 +1657,7 @@
   },
   {
     "stop_id":"Route3B-0397_160 Woolwich.",
-    "stop_code":0397,
+    "stop_code":397,
     "stop_name":"160 Woolwich.",
     "stop_desc":"",
     "stop_lat":43.548027,
@@ -1669,7 +1669,7 @@
   },
   {
     "stop_id":"Route3B-0398_Wyndham at IF Shoe Store",
-    "stop_code":0398,
+    "stop_code":398,
     "stop_name":"Wyndham at IF Shoe Store",
     "stop_desc":"",
     "stop_lat":43.545578,
@@ -1681,7 +1681,7 @@
   },
   {
     "stop_id":"Route3B-0399_Guelph Central Station",
-    "stop_code":0399,
+    "stop_code":399,
     "stop_name":"Guelph Central Station",
     "stop_desc":"",
     "stop_lat":43.545180,
@@ -4129,7 +4129,7 @@
   },
   {
     "stop_id":"Route1A-0100_university centre",
-    "stop_code":0100,
+    "stop_code":100,
     "stop_name":"University Centre",
     "stop_desc":"",
     "stop_lat":43.529524,
@@ -4141,7 +4141,7 @@
   },
   {
     "stop_id":"Route1A-0101_gordon st. at stone rd. w.",
-    "stop_code":0101,
+    "stop_code":101,
     "stop_name":"Gordon St. at Stone Rd. W.",
     "stop_desc":"",
     "stop_lat":43.527351,
@@ -4153,7 +4153,7 @@
   },
   {
     "stop_id":"Route1A-0102_gordon st. at harvard rd.",
-    "stop_code":0102,
+    "stop_code":102,
     "stop_name":"Gordon St. at Harvard Rd.",
     "stop_desc":"",
     "stop_lat":43.525457,
@@ -4165,7 +4165,7 @@
   },
   {
     "stop_id":"Route1A-0103_gordon st. at kortright rd.",
-    "stop_code":0103,
+    "stop_code":103,
     "stop_name":"Gordon St. at Kortright Rd.",
     "stop_desc":"",
     "stop_lat":43.522309,
@@ -4177,7 +4177,7 @@
   },
   {
     "stop_id":"Route1A-0104_gordon st. at harts lane",
-    "stop_code":0104,
+    "stop_code":104,
     "stop_name":"Gordon St. at Harts Lane",
     "stop_desc":"",
     "stop_lat":43.519571,
@@ -4189,7 +4189,7 @@
   },
   {
     "stop_id":"Route1A-0105_1155 gordon st.",
-    "stop_code":0105,
+    "stop_code":105,
     "stop_name":"1155 Gordon St.",
     "stop_desc":"",
     "stop_lat":43.518045,
@@ -4201,7 +4201,7 @@
   },
   {
     "stop_id":"Route1A-0106_gordon st. at edinburgh rd. s.",
-    "stop_code":0106,
+    "stop_code":106,
     "stop_name":"Gordon St. at Edinburgh Rd. S.",
     "stop_desc":"",
     "stop_lat":43.516595,
@@ -4213,7 +4213,7 @@
   },
   {
     "stop_id":"Route1A-0107_edinburgh rd. s. at carrington dr.",
-    "stop_code":0107,
+    "stop_code":107,
     "stop_name":"Edinburgh Rd. S. at Carrington Dr.",
     "stop_desc":"",
     "stop_lat":43.513692,
@@ -4225,7 +4225,7 @@
   },
   {
     "stop_id":"Route1A-0108_edinburgh rd. s. at rickson ave.",
-    "stop_code":0108,
+    "stop_code":108,
     "stop_name":"Edinburgh Rd. S. at Rickson Ave.",
     "stop_desc":"",
     "stop_lat":43.511637,
@@ -4237,7 +4237,7 @@
   },
   {
     "stop_id":"Route1A-0109_edinburgh rd. s. at ginger crt.",
-    "stop_code":0109,
+    "stop_code":109,
     "stop_name":"Edinburgh Rd. S. at Ginger Crt.",
     "stop_desc":"",
     "stop_lat":43.511074,
@@ -4249,7 +4249,7 @@
   },
   {
     "stop_id":"Route1A-0110_edinburgh rd. s. at rogers rd.",
-    "stop_code":0110,
+    "stop_code":110,
     "stop_name":"Edinburgh Rd. S. at Rogers Rd.",
     "stop_desc":"",
     "stop_lat":43.512621,
@@ -4261,7 +4261,7 @@
   },
   {
     "stop_id":"Route1A-0111_edinburgh rd. s. at koch dr.",
-    "stop_code":0111,
+    "stop_code":111,
     "stop_name":"Edinburgh Rd. S. at Koch Dr.",
     "stop_desc":"",
     "stop_lat":43.516156,
@@ -4273,7 +4273,7 @@
   },
   {
     "stop_id":"Route1A-0112_edinburgh rd. s. at laurelwood crt.",
-    "stop_code":0112,
+    "stop_code":112,
     "stop_name":"Edinburgh Rd. S. at Laurelwood Crt.",
     "stop_desc":"",
     "stop_lat":43.517591,
@@ -4285,7 +4285,7 @@
   },
   {
     "stop_id":"Route1A-0113_stone rd. w. at stone road mall",
-    "stop_code":0113,
+    "stop_code":113,
     "stop_name":"Stone Rd. W. at Stone Road Mall",
     "stop_desc":"",
     "stop_lat":43.517495,
@@ -4297,7 +4297,7 @@
   },
   {
     "stop_id":"Route1A-0114_stone rd. w. at scottsdale dr.",
-    "stop_code":0114,
+    "stop_code":114,
     "stop_name":"Stone Rd. W. at Scottsdale Dr.",
     "stop_desc":"",
     "stop_lat":43.515864,
@@ -4309,7 +4309,7 @@
   },
   {
     "stop_id":"Route1A-0115_181 janefield ave.",
-    "stop_code":0115,
+    "stop_code":115,
     "stop_name":"181 Janefield Ave.",
     "stop_desc":"",
     "stop_lat":43.517581,
@@ -4321,7 +4321,7 @@
   },
   {
     "stop_id":"Route1A-0116_53 janefield ave.",
-    "stop_code":0116,
+    "stop_code":116,
     "stop_name":"53 Janefield Ave.",
     "stop_desc":"",
     "stop_lat":43.519079,
@@ -4333,7 +4333,7 @@
   },
   {
     "stop_id":"Route1A-0117_264 college ave. w.",
-    "stop_code":0117,
+    "stop_code":117,
     "stop_name":"264 College Ave. W.",
     "stop_desc":"",
     "stop_lat":43.521975,
@@ -4345,7 +4345,7 @@
   },
   {
     "stop_id":"Route1A-0118_college ave. w. at meadowcroft",
-    "stop_code":0118,
+    "stop_code":118,
     "stop_name":"College Ave. W. at Meadowcroft",
     "stop_desc":"",
     "stop_lat":43.524248,
@@ -4357,7 +4357,7 @@
   },
   {
     "stop_id":"Route1A-0119_50 college ave. w.",
-    "stop_code":0119,
+    "stop_code":119,
     "stop_name":"50 College Ave. W.",
     "stop_desc":"",
     "stop_lat":43.529648,
@@ -4369,7 +4369,7 @@
   },
   {
     "stop_id":"Route1A-0120_college ave. e. at macdonald st.",
-    "stop_code":0120,
+    "stop_code":120,
     "stop_name":"College Ave. E. at MacDonald St.",
     "stop_desc":"",
     "stop_lat":43.533525,
@@ -4381,7 +4381,7 @@
   },
   {
     "stop_id":"Route1A-0121_east ring rd. at dundas lane",
-    "stop_code":0121,
+    "stop_code":121,
     "stop_name":"East Ring Rd. at Dundas Lane",
     "stop_desc":"",
     "stop_lat":43.535121,
@@ -4393,7 +4393,7 @@
   },
   {
     "stop_id":"Route1A-0122_east ring rd. at arboretum rd.",
-    "stop_code":0122,
+    "stop_code":122,
     "stop_name":"East Ring Rd. at Arboretum Rd.",
     "stop_desc":"",
     "stop_lat":43.533228,
@@ -4405,7 +4405,7 @@
   },
   {
     "stop_id":"Route1A-0123_university centre",
-    "stop_code":0123,
+    "stop_code":123,
     "stop_name":"University Centre",
     "stop_desc":"",
     "stop_lat":43.529524,
@@ -4417,7 +4417,7 @@
   },
   {
     "stop_id":"Route1B-0124_university centre",
-    "stop_code":0124,
+    "stop_code":124,
     "stop_name":"University Centre",
     "stop_desc":"",
     "stop_lat":43.529524,
@@ -4429,7 +4429,7 @@
   },
   {
     "stop_id":"Route1B-0125_east ring rd. at arboretum rd.",
-    "stop_code":0125,
+    "stop_code":125,
     "stop_name":"East Ring Rd. at Arboretum Rd.",
     "stop_desc":"",
     "stop_lat":43.533414,
@@ -4441,7 +4441,7 @@
   },
   {
     "stop_id":"Route1B-0126_east ring rd. at dundas lane",
-    "stop_code":0126,
+    "stop_code":126,
     "stop_name":"East Ring Rd. at Dundas Lane",
     "stop_desc":"",
     "stop_lat":43.535071,
@@ -4453,7 +4453,7 @@
   },
   {
     "stop_id":"Route1B-0127_college ave. e. at macdonald st.",
-    "stop_code":0127,
+    "stop_code":127,
     "stop_name":"College Ave. E. at MacDonald St.",
     "stop_desc":"",
     "stop_lat":43.534115,
@@ -4465,7 +4465,7 @@
   },
   {
     "stop_id":"Route1B-0128_college ave. w. at caledonia st.",
-    "stop_code":0128,
+    "stop_code":128,
     "stop_name":"College Ave. W. at Caledonia St.",
     "stop_desc":"",
     "stop_lat":43.529727,
@@ -4477,7 +4477,7 @@
   },
   {
     "stop_id":"Route1B-0129_college ave. w. at edinburgh rd.",
-    "stop_code":0129,
+    "stop_code":129,
     "stop_name":"College Ave. W. at Edinburgh Rd.",
     "stop_desc":"",
     "stop_lat":43.525349,
@@ -4489,7 +4489,7 @@
   },
   {
     "stop_id":"Route1B-0130_college ave. w. at centennial",
-    "stop_code":0130,
+    "stop_code":130,
     "stop_name":"College Ave. W. at Centennial",
     "stop_desc":"",
     "stop_lat":43.521571,
@@ -4501,7 +4501,7 @@
   },
   {
     "stop_id":"Route1B-0131_129 janefield ave.",
-    "stop_code":0131,
+    "stop_code":131,
     "stop_name":"129 Janefield Ave.",
     "stop_desc":"",
     "stop_lat":43.517868,
@@ -4513,7 +4513,7 @@
   },
   {
     "stop_id":"Route1B-0132_janefield ave. at scottsdale dr.",
-    "stop_code":0132,
+    "stop_code":132,
     "stop_name":"Janefield Ave. at Scottsdale Dr.",
     "stop_desc":"",
     "stop_lat":43.516872,
@@ -4525,7 +4525,7 @@
   },
   {
     "stop_id":"Route1B-0133_stone rd. w. at scottsdale dr.",
-    "stop_code":0133,
+    "stop_code":133,
     "stop_name":"Stone Rd. W. at Scottsdale Dr.",
     "stop_desc":"",
     "stop_lat":43.516108,
@@ -4537,7 +4537,7 @@
   },
   {
     "stop_id":"Route1B-0134_372 stone rd. w.",
-    "stop_code":0134,
+    "stop_code":134,
     "stop_name":"372 Stone Rd. W.",
     "stop_desc":"",
     "stop_lat":43.517578,
@@ -4549,7 +4549,7 @@
   },
   {
     "stop_id":"Route1B-0135_292 stone rd. w.",
-    "stop_code":0135,
+    "stop_code":135,
     "stop_name":"292 Stone Rd. W.",
     "stop_desc":"",
     "stop_lat":43.519475,
@@ -4561,7 +4561,7 @@
   },
   {
     "stop_id":"Route1B-0136_583 edinburgh rd. s.",
-    "stop_code":0136,
+    "stop_code":136,
     "stop_name":"583 Edinburgh Rd. S.",
     "stop_desc":"",
     "stop_lat":43.516543,
@@ -4573,7 +4573,7 @@
   },
   {
     "stop_id":"Route1B-0137_685 edinburgh rd. s.",
-    "stop_code":0137,
+    "stop_code":137,
     "stop_name":"685 Edinburgh Rd. S.",
     "stop_desc":"",
     "stop_lat":43.515674,
@@ -4585,7 +4585,7 @@
   },
   {
     "stop_id":"Route1B-0138_777 edinburgh rd. s.",
-    "stop_code":0138,
+    "stop_code":138,
     "stop_name":"777 Edinburgh Rd. S.",
     "stop_desc":"",
     "stop_lat":43.512606,
@@ -4597,7 +4597,7 @@
   },
   {
     "stop_id":"Route1B-0139_edinburgh  rd. s. at ginger crt.",
-    "stop_code":0139,
+    "stop_code":139,
     "stop_name":"Edinburgh  Rd. S. at Ginger Crt.",
     "stop_desc":"",
     "stop_lat":43.510979,
@@ -4609,7 +4609,7 @@
   },
   {
     "stop_id":"Route1B-0140_edinburgh rd. s. at rickson ave.",
-    "stop_code":0140,
+    "stop_code":140,
     "stop_name":"Edinburgh Rd. S. at Rickson Ave.",
     "stop_desc":"",
     "stop_lat":43.511550,
@@ -4621,7 +4621,7 @@
   },
   {
     "stop_id":"Route1B-0141_edinburgh rd. s. at carrington dr.",
-    "stop_code":0141,
+    "stop_code":141,
     "stop_name":"Edinburgh Rd. S. at Carrington Dr.",
     "stop_desc":"",
     "stop_lat":43.513666,
@@ -4633,7 +4633,7 @@
   },
   {
     "stop_id":"Route1B-0142_gordon st. at valley rd.",
-    "stop_code":0142,
+    "stop_code":142,
     "stop_name":"Gordon St. at Valley Rd.",
     "stop_desc":"",
     "stop_lat":43.516653,
@@ -4645,7 +4645,7 @@
   },
   {
     "stop_id":"Route1B-0143_gordon st. at landsdown dr.",
-    "stop_code":0143,
+    "stop_code":143,
     "stop_name":"Gordon St. at Landsdown Dr.",
     "stop_desc":"",
     "stop_lat":43.518854,
@@ -4657,7 +4657,7 @@
   },
   {
     "stop_id":"Route1B-0144_gordon st. at harts lane",
-    "stop_code":0144,
+    "stop_code":144,
     "stop_name":"Gordon St. at Harts Lane",
     "stop_desc":"",
     "stop_lat":43.519609,
@@ -4669,7 +4669,7 @@
   },
   {
     "stop_id":"Route1B-0146_gordon st. at kortright rd.",
-    "stop_code":0146,
+    "stop_code":146,
     "stop_name":"Gordon St. at Kortright Rd.",
     "stop_desc":"",
     "stop_lat":43.522721,
@@ -4681,7 +4681,7 @@
   },
   {
     "stop_id":"Route1B-0145_941 gordon st.",
-    "stop_code":0145,
+    "stop_code":145,
     "stop_name":"941 Gordon St.",
     "stop_desc":"",
     "stop_lat":43.520895,
@@ -4693,7 +4693,7 @@
   },
   {
     "stop_id":"Route1B-0147_gordon st. at hands dr.",
-    "stop_code":0147,
+    "stop_code":147,
     "stop_name":"Gordon St. at Hands Dr.",
     "stop_desc":"",
     "stop_lat":43.524266,
@@ -4705,7 +4705,7 @@
   },
   {
     "stop_id":"Route1B-0148_gordon st. at monticello cres.",
-    "stop_code":0148,
+    "stop_code":148,
     "stop_name":"Gordon St. at Monticello Cres.",
     "stop_desc":"",
     "stop_lat":43.525832,
@@ -4717,7 +4717,7 @@
   },
   {
     "stop_id":"Route1B-0149_gordon st. at stone rd. w.",
-    "stop_code":0149,
+    "stop_code":149,
     "stop_name":"Gordon St. at Stone Rd. W.",
     "stop_desc":"",
     "stop_lat":43.527039,
@@ -4729,7 +4729,7 @@
   },
   {
     "stop_id":"Route1B-0150_university centre",
-    "stop_code":0150,
+    "stop_code":150,
     "stop_name":"University Centre",
     "stop_desc":"",
     "stop_lat":43.529524,
@@ -5089,7 +5089,7 @@
   },
   {
     "stop_id":"Route6-0600_university centre",
-    "stop_code":0600,
+    "stop_code":600,
     "stop_name":"University Centre",
     "stop_desc":"",
     "stop_lat":43.5290634619,
@@ -5101,7 +5101,7 @@
   },
   {
     "stop_id":"Route6-0601_gordon st. at stone rd. w.",
-    "stop_code":0601,
+    "stop_code":601,
     "stop_name":"Gordon St. at Stone Rd. W.",
     "stop_desc":"",
     "stop_lat":43.527351,
@@ -5113,7 +5113,7 @@
   },
   {
     "stop_id":"Route6-0602_gordon st. at harvard rd.",
-    "stop_code":0602,
+    "stop_code":602,
     "stop_name":"Gordon St. at Harvard Rd.",
     "stop_desc":"",
     "stop_lat":43.525457,
@@ -5125,7 +5125,7 @@
   },
   {
     "stop_id":"Route6-0603_harvard rd. at shakespeare arms",
-    "stop_code":0603,
+    "stop_code":603,
     "stop_name":"Harvard Rd. at Shakespeare Arms",
     "stop_desc":"",
     "stop_lat":43.523990,
@@ -5137,7 +5137,7 @@
   },
   {
     "stop_id":"Route6-0604_harvard rd. at princeton pl.",
-    "stop_code":0604,
+    "stop_code":604,
     "stop_name":"Harvard Rd. at Princeton Pl.",
     "stop_desc":"",
     "stop_lat":43.520793,
@@ -5149,7 +5149,7 @@
   },
   {
     "stop_id":"Route6-0605_harvard rd. at youngman dr.",
-    "stop_code":0605,
+    "stop_code":605,
     "stop_name":"Harvard Rd. at Youngman Dr.",
     "stop_desc":"",
     "stop_lat":43.518262,
@@ -5161,7 +5161,7 @@
   },
   {
     "stop_id":"Route6-0606_edinburgh rd. at laurelwood crt.",
-    "stop_code":0606,
+    "stop_code":606,
     "stop_name":"Edinburgh Rd. at Laurelwood Crt.",
     "stop_desc":"",
     "stop_lat":43.517457,
@@ -5173,7 +5173,7 @@
   },
   {
     "stop_id":"Route6-0607_stone rd. w. at stone road mall",
-    "stop_code":0607,
+    "stop_code":607,
     "stop_name":"Stone Rd. W. at Stone Road Mall",
     "stop_desc":"",
     "stop_lat":43.517495,
@@ -5185,7 +5185,7 @@
   },
   {
     "stop_id":"Route6-0608_scottsdale dr. at stone rd. w.",
-    "stop_code":0608,
+    "stop_code":608,
     "stop_name":"Scottsdale Dr. at Stone Rd. W.",
     "stop_desc":"",
     "stop_lat":43.514716,
@@ -5197,7 +5197,7 @@
   },
   {
     "stop_id":"Route6-0609_scottsdale dr. at cole rd.",
-    "stop_code":0609,
+    "stop_code":609,
     "stop_name":"Scottsdale Dr. at Cole Rd.",
     "stop_desc":"",
     "stop_lat":43.513792,
@@ -5209,7 +5209,7 @@
   },
   {
     "stop_id":"Route6-0610_scottsdale dr. at ironwood rd.",
-    "stop_code":0610,
+    "stop_code":610,
     "stop_name":"Scottsdale Dr. at Ironwood Rd.",
     "stop_desc":"",
     "stop_lat":43.512987,
@@ -5221,7 +5221,7 @@
   },
   {
     "stop_id":"Route6-0611_ironwood rd. at steffler park",
-    "stop_code":0611,
+    "stop_code":611,
     "stop_name":"Ironwood Rd. at Steffler Park",
     "stop_desc":"",
     "stop_lat":43.511151,
@@ -5233,7 +5233,7 @@
   },
   {
     "stop_id":"Route6-0612_ironwood rd. at cole rd.",
-    "stop_code":0612,
+    "stop_code":612,
     "stop_name":"Ironwood Rd. at Cole Rd.",
     "stop_desc":"",
     "stop_lat":43.508854,
@@ -5245,7 +5245,7 @@
   },
   {
     "stop_id":"Route6-0613_ironwood rd. at woodborough rd.",
-    "stop_code":0613,
+    "stop_code":613,
     "stop_name":"Ironwood Rd. at Woodborough Rd.",
     "stop_desc":"",
     "stop_lat":43.507108,
@@ -5257,7 +5257,7 @@
   },
   {
     "stop_id":"Route6-0614_ironwood rd. at hilldale cres.",
-    "stop_code":0614,
+    "stop_code":614,
     "stop_name":"Ironwood Rd. at Hilldale Cres.",
     "stop_desc":"",
     "stop_lat":43.505669,
@@ -5269,7 +5269,7 @@
   },
   {
     "stop_id":"Route6-0615_ironwood rd. at brookhaven crt.",
-    "stop_code":0615,
+    "stop_code":615,
     "stop_name":"Ironwood Rd. at Brookhaven Crt.",
     "stop_desc":"",
     "stop_lat":43.507460,
@@ -5281,7 +5281,7 @@
   },
   {
     "stop_id":"Route6-0616_ironwood rd. at kortright rd.",
-    "stop_code":0616,
+    "stop_code":616,
     "stop_name":"Ironwood Rd. at Kortright Rd.",
     "stop_desc":"",
     "stop_lat":43.509886,
@@ -5293,7 +5293,7 @@
   },
   {
     "stop_id":"Route6-0617_scottsdale dr. at steffler dr",
-    "stop_code":0617,
+    "stop_code":617,
     "stop_name":"Scottsdale Dr. at Steffler Dr",
     "stop_desc":"",
     "stop_lat":43.511745,
@@ -5305,7 +5305,7 @@
   },
   {
     "stop_id":"Route6-0618_711 scottsdale dr.",
-    "stop_code":0618,
+    "stop_code":618,
     "stop_name":"711 Scottsdale Dr.",
     "stop_desc":"",
     "stop_lat":43.513799,
@@ -5317,7 +5317,7 @@
   },
   {
     "stop_id":"Route6-0619_632 scottsdale dr.",
-    "stop_code":0619,
+    "stop_code":619,
     "stop_name":"632 Scottsdale Dr.",
     "stop_desc":"",
     "stop_lat":43.514732,
@@ -5329,7 +5329,7 @@
   },
   {
     "stop_id":"Route6-0620_stone rd. w. at scottsdale dr.",
-    "stop_code":0620,
+    "stop_code":620,
     "stop_name":"Stone Rd. W. at Scottsdale Dr.",
     "stop_desc":"",
     "stop_lat":43.516108,
@@ -5341,7 +5341,7 @@
   },
   {
     "stop_id":"Route6-0621_372 stone rd. w.",
-    "stop_code":0621,
+    "stop_code":621,
     "stop_name":"372 Stone Rd. W.",
     "stop_desc":"",
     "stop_lat":43.517578,
@@ -5353,7 +5353,7 @@
   },
   {
     "stop_id":"Route6-0622_stone rd. w. at edinburgh rd. s.",
-    "stop_code":0622,
+    "stop_code":622,
     "stop_name":"Stone Rd. W. at Edinburgh Rd. S.",
     "stop_desc":"",
     "stop_lat":43.519475,
@@ -5365,7 +5365,7 @@
   },
   {
     "stop_id":"Route6-0623_youngman dr. at harvard rd.",
-    "stop_code":0623,
+    "stop_code":623,
     "stop_name":"Youngman Dr. at Harvard Rd.",
     "stop_desc":"",
     "stop_lat":43.517933,
@@ -5377,7 +5377,7 @@
   },
   {
     "stop_id":"Route6-0624_harvard rd. at princeton pl.",
-    "stop_code":0624,
+    "stop_code":624,
     "stop_name":"Harvard Rd. at Princeton Pl.",
     "stop_desc":"",
     "stop_lat":43.520745,
@@ -5389,7 +5389,7 @@
   },
   {
     "stop_id":"Route6-0625_harvard rd. at rickson ave.",
-    "stop_code":0625,
+    "stop_code":625,
     "stop_name":"Harvard Rd. at Rickson Ave.",
     "stop_desc":"",
     "stop_lat":43.522439,
@@ -5401,7 +5401,7 @@
   },
   {
     "stop_id":"Route6-0626_35 harvard ave. at plaza",
-    "stop_code":0626,
+    "stop_code":626,
     "stop_name":"35 Harvard Ave. at Plaza",
     "stop_desc":"",
     "stop_lat":43.524268,
@@ -5413,7 +5413,7 @@
   },
   {
     "stop_id":"Route6-0627_gordon st. at monticello cres.",
-    "stop_code":0627,
+    "stop_code":627,
     "stop_name":"Gordon St. at Monticello Cres.",
     "stop_desc":"",
     "stop_lat":43.525832,
@@ -5425,7 +5425,7 @@
   },
   {
     "stop_id":"Route6-0628_gordon st. at stone rd. w.",
-    "stop_code":0628,
+    "stop_code":628,
     "stop_name":"Gordon St. at Stone Rd. W.",
     "stop_desc":"",
     "stop_lat":43.527039,
@@ -5437,7 +5437,7 @@
   },
   {
     "stop_id":"Route6-0629_university centre",
-    "stop_code":0629,
+    "stop_code":629,
     "stop_name":"University Centre",
     "stop_desc":"",
     "stop_lat":43.5290001927,
@@ -5449,7 +5449,7 @@
   },
   {
     "stop_id":"Route7-0700_university centre",
-    "stop_code":0700,
+    "stop_code":700,
     "stop_name":"University Centre",
     "stop_desc":"",
     "stop_lat":43.5290189503,
@@ -5461,7 +5461,7 @@
   },
   {
     "stop_id":"Route7-0701_gordon st. at stone rd. w.",
-    "stop_code":0701,
+    "stop_code":701,
     "stop_name":"Gordon St. at Stone Rd. W.",
     "stop_desc":"",
     "stop_lat":43.527351,
@@ -5473,7 +5473,7 @@
   },
   {
     "stop_id":"Route7-0702_gordon st. at harvard rd.",
-    "stop_code":0702,
+    "stop_code":702,
     "stop_name":"Gordon St. at Harvard Rd.",
     "stop_desc":"",
     "stop_lat":43.525457,
@@ -5485,7 +5485,7 @@
   },
   {
     "stop_id":"Route7-0703_gordon st. at kortright rd.",
-    "stop_code":0703,
+    "stop_code":703,
     "stop_name":"Gordon St. at Kortright Rd.",
     "stop_desc":"",
     "stop_lat":43.522309,
@@ -5497,7 +5497,7 @@
   },
   {
     "stop_id":"Route7-0704_kortright rd. at yewholme dr.",
-    "stop_code":0704,
+    "stop_code":704,
     "stop_name":"Kortright Rd. at Yewholme Dr.",
     "stop_desc":"",
     "stop_lat":43.520139,
@@ -5509,7 +5509,7 @@
   },
   {
     "stop_id":"Route7-0705_kortright rd. at rickson ave.",
-    "stop_code":0705,
+    "stop_code":705,
     "stop_name":"Kortright Rd. at Rickson Ave.",
     "stop_desc":"",
     "stop_lat":43.516957,
@@ -5521,7 +5521,7 @@
   },
   {
     "stop_id":"Route7-0706_kortright rd. at edinburgh rd. s.",
-    "stop_code":0706,
+    "stop_code":706,
     "stop_name":"Kortright Rd. at Edinburgh Rd. S.",
     "stop_desc":"",
     "stop_lat":43.514366,
@@ -5533,7 +5533,7 @@
   },
   {
     "stop_id":"Route7-0707_kortright rd. at hanlon creek park",
-    "stop_code":0707,
+    "stop_code":707,
     "stop_name":"Kortright Rd. at Hanlon Creek Park",
     "stop_desc":"",
     "stop_lat":43.511157,
@@ -5545,7 +5545,7 @@
   },
   {
     "stop_id":"Route7-0708_555 kortright rd.",
-    "stop_code":0708,
+    "stop_code":708,
     "stop_name":"555 Kortright Rd.",
     "stop_desc":"",
     "stop_lat":43.509150,
@@ -5557,7 +5557,7 @@
   },
   {
     "stop_id":"Route7-0709_kortright rd. at hanlon rd.",
-    "stop_code":0709,
+    "stop_code":709,
     "stop_name":"Kortright Rd. at Hanlon Rd.",
     "stop_desc":"",
     "stop_lat":43.507161,
@@ -5569,7 +5569,7 @@
   },
   {
     "stop_id":"Route7-0710_downey rd. at woodland glen dr.",
-    "stop_code":0710,
+    "stop_code":710,
     "stop_name":"Downey Rd. at Woodland Glen Dr.",
     "stop_desc":"",
     "stop_lat":43.505301,
@@ -5581,7 +5581,7 @@
   },
   {
     "stop_id":"Route7-0711_niska rd. opposite tanager dr.",
-    "stop_code":0711,
+    "stop_code":711,
     "stop_name":"Niska Rd. opposite Tanager Dr.",
     "stop_desc":"",
     "stop_lat":43.504418,
@@ -5593,7 +5593,7 @@
   },
   {
     "stop_id":"Route7-0712_ptarmigan dr. at niska rd.",
-    "stop_code":0712,
+    "stop_code":712,
     "stop_name":"Ptarmigan Dr. at Niska Rd.",
     "stop_desc":"",
     "stop_lat":43.503350,
@@ -5605,7 +5605,7 @@
   },
   {
     "stop_id":"Route7-0713_ptarmigan dr. at pheasant run dr.",
-    "stop_code":0713,
+    "stop_code":713,
     "stop_name":"Ptarmigan Dr. at Pheasant Run Dr.",
     "stop_desc":"",
     "stop_lat":43.499663,
@@ -5617,7 +5617,7 @@
   },
   {
     "stop_id":"Route7-0714_ptarmigan dr. at downey rd.",
-    "stop_code":0714,
+    "stop_code":714,
     "stop_name":"Ptarmigan Dr. at Downey Rd.",
     "stop_desc":"",
     "stop_lat":43.499782,
@@ -5629,7 +5629,7 @@
   },
   {
     "stop_id":"Route7-0715_downey rd. at hazelwood dr.",
-    "stop_code":0715,
+    "stop_code":715,
     "stop_name":"Downey Rd. at Hazelwood Dr.",
     "stop_desc":"",
     "stop_lat":43.502415,
@@ -5641,7 +5641,7 @@
   },
   {
     "stop_id":"Route7-0716_downey rd. at niska rd.",
-    "stop_code":0716,
+    "stop_code":716,
     "stop_name":"Downey Rd. at Niska Rd.",
     "stop_desc":"",
     "stop_lat":43.504842,
@@ -5653,7 +5653,7 @@
   },
   {
     "stop_id":"Route7-0717_kortright rd. at hanlon rd.",
-    "stop_code":0717,
+    "stop_code":717,
     "stop_name":"Kortright Rd. at Hanlon Rd.",
     "stop_desc":"",
     "stop_lat":43.506931,
@@ -5665,7 +5665,7 @@
   },
   {
     "stop_id":"Route7-0718_kortright rd. at plaza",
-    "stop_code":0718,
+    "stop_code":718,
     "stop_name":"Kortright Rd. at Plaza",
     "stop_desc":"",
     "stop_lat":43.508986,
@@ -5677,7 +5677,7 @@
   },
   {
     "stop_id":"Route7-0719_kortright rd. at hanlon creek park",
-    "stop_code":0719,
+    "stop_code":719,
     "stop_name":"Kortright Rd. at Hanlon Creek Park",
     "stop_desc":"",
     "stop_lat":43.511345,
@@ -5689,7 +5689,7 @@
   },
   {
     "stop_id":"Route7-0720_kortright rd. at edinburgh rd. s.",
-    "stop_code":0720,
+    "stop_code":720,
     "stop_name":"Kortright Rd. at Edinburgh Rd. S.",
     "stop_desc":"",
     "stop_lat":43.514312,
@@ -5701,7 +5701,7 @@
   },
   {
     "stop_id":"Route7-0721_kortright rd. at rickson ave.",
-    "stop_code":0721,
+    "stop_code":721,
     "stop_name":"Kortright Rd. at Rickson Ave.",
     "stop_desc":"",
     "stop_lat":43.516883,
@@ -5713,7 +5713,7 @@
   },
   {
     "stop_id":"Route7-0722_kortright rd. opposite yewholme dr.",
-    "stop_code":0722,
+    "stop_code":722,
     "stop_name":"Kortright Rd. opposite Yewholme Dr.",
     "stop_desc":"",
     "stop_lat":43.521627,
@@ -5725,7 +5725,7 @@
   },
   {
     "stop_id":"Route7-0723_gordon st. at kortright rd.",
-    "stop_code":0723,
+    "stop_code":723,
     "stop_name":"Gordon St. at Kortright Rd.",
     "stop_desc":"",
     "stop_lat":43.522721,
@@ -5737,7 +5737,7 @@
   },
   {
     "stop_id":"Route7-0724_gordon st. at hands dr.",
-    "stop_code":0724,
+    "stop_code":724,
     "stop_name":"Gordon St. at Hands Dr.",
     "stop_desc":"",
     "stop_lat":43.524266,
@@ -5749,7 +5749,7 @@
   },
   {
     "stop_id":"Route7-0725_gordon st. at monticello cres.",
-    "stop_code":0725,
+    "stop_code":725,
     "stop_name":"Gordon St. at Monticello Cres.",
     "stop_desc":"",
     "stop_lat":43.525832,
@@ -5761,7 +5761,7 @@
   },
   {
     "stop_id":"Route7-0726_gordon st. at stone rd. w.",
-    "stop_code":0726,
+    "stop_code":726,
     "stop_name":"Gordon St. at Stone Rd. W.",
     "stop_desc":"",
     "stop_lat":43.527039,
@@ -5773,7 +5773,7 @@
   },
   {
     "stop_id":"Route7-0728_university centre",
-    "stop_code":0728,
+    "stop_code":728,
     "stop_name":"University Centre",
     "stop_desc":"",
     "stop_lat":43.5289652518,
@@ -6157,7 +6157,7 @@
   },
   {
     "stop_id":"Route3A-0300_Guelph Central Station",
-    "stop_code":0300,
+    "stop_code":300,
     "stop_name":"Guelph Central Station",
     "stop_desc":"",
     "stop_lat":43.545180,
@@ -6169,7 +6169,7 @@
   },
   {
     "stop_id":"Route3A-0301_Wyndham St. at Bank of Nova Scotia",
-    "stop_code":0301,
+    "stop_code":301,
     "stop_name":"Wyndham St. at Bank of Nova Scotia",
     "stop_desc":"",
     "stop_lat":43.546441,
@@ -6181,7 +6181,7 @@
   },
   {
     "stop_id":"Route3A-0302_Woolwich St. at Cardigan St.",
-    "stop_code":0302,
+    "stop_code":302,
     "stop_name":"Woolwich St. at Cardigan St.",
     "stop_desc":"",
     "stop_lat":43.545892,
@@ -6193,7 +6193,7 @@
   },
   {
     "stop_id":"Route3A-0303_Suffolk St. at Norfolk St.",
-    "stop_code":0303,
+    "stop_code":303,
     "stop_name":"Suffolk St. at Norfolk St.",
     "stop_desc":"",
     "stop_lat":43.548158,
@@ -6205,7 +6205,7 @@
   },
   {
     "stop_id":"Route3A-0304_Suffolk St. at Dublin St.",
-    "stop_code":0304,
+    "stop_code":304,
     "stop_name":"Suffolk St. at Dublin St.",
     "stop_desc":"",
     "stop_lat":43.547351,
@@ -6217,7 +6217,7 @@
   },
   {
     "stop_id":"Route3A-0305_Suffolk St. at Glasgow St.",
-    "stop_code":0305,
+    "stop_code":305,
     "stop_name":"Suffolk St. at Glasgow St.",
     "stop_desc":"",
     "stop_lat":43.546415,
@@ -6229,7 +6229,7 @@
   },
   {
     "stop_id":"Route3A-0306_Yorkshire St. N. at London Rd. W.",
-    "stop_code":0306,
+    "stop_code":306,
     "stop_name":"Yorkshire St. N. at London Rd. W.",
     "stop_desc":"",
     "stop_lat":43.545548,
@@ -6241,7 +6241,7 @@
   },
   {
     "stop_id":"Route3A-0307_Westmount Rd. at Lourdes",
-    "stop_code":0307,
+    "stop_code":307,
     "stop_name":"Westmount Rd. at Lourdes",
     "stop_desc":"",
     "stop_lat":43.547576,
@@ -6253,7 +6253,7 @@
   },
   {
     "stop_id":"Route3A-0308_Westmount Rd. at Division St.",
-    "stop_code":0308,
+    "stop_code":308,
     "stop_name":"Westmount Rd. at Division St.",
     "stop_desc":"",
     "stop_lat":43.550057,
@@ -6265,7 +6265,7 @@
   },
   {
     "stop_id":"Route3A-0309_St. Joseph's Health Centre",
-    "stop_code":0309,
+    "stop_code":309,
     "stop_name":"St. Joseph's Health Centre",
     "stop_desc":"",
     "stop_lat":43.548167,
@@ -6277,7 +6277,7 @@
   },
   {
     "stop_id":"Route3A-0310_Westmount Rd. at Speedvale Ave. W.",
-    "stop_code":0310,
+    "stop_code":310,
     "stop_name":"Westmount Rd. at Speedvale Ave. W.",
     "stop_desc":"",
     "stop_lat":43.550132,
@@ -6289,7 +6289,7 @@
   },
   {
     "stop_id":"Route3A-0311_Kathleen St. at June Ave.",
-    "stop_code":0311,
+    "stop_code":311,
     "stop_name":"Kathleen St. at June Ave.",
     "stop_desc":"",
     "stop_lat":43.553416,
@@ -6301,7 +6301,7 @@
   },
   {
     "stop_id":"Route3A-0312_Bailey Ave. at Nicklin Rd.",
-    "stop_code":0312,
+    "stop_code":312,
     "stop_name":"Bailey Ave. at Nicklin Rd.",
     "stop_desc":"",
     "stop_lat":43.556149,
@@ -6313,7 +6313,7 @@
   },
   {
     "stop_id":"Route3A-0313_Nicklin Rd. at Woodlawn Rd.",
-    "stop_code":0313,
+    "stop_code":313,
     "stop_name":"Nicklin Rd. at Woodlawn Rd.",
     "stop_desc":"",
     "stop_lat":43.560098,
@@ -6325,7 +6325,7 @@
   },
   {
     "stop_id":"Route3A-0314_Smart Centre Guelph",
-    "stop_code":0314,
+    "stop_code":314,
     "stop_name":"Smart Centre Guelph",
     "stop_desc":"",
     "stop_lat":43.556747,
@@ -6337,7 +6337,7 @@
   },
   {
     "stop_id":"Route3A-0315_21 Woodlawn Rd. E.",
-    "stop_code":0315,
+    "stop_code":315,
     "stop_name":"21 Woodlawn Rd. E.",
     "stop_desc":"",
     "stop_lat":43.565031,
@@ -6349,7 +6349,7 @@
   },
   {
     "stop_id":"Route3A-0316_Woodlawn Rd. E. at opposite Seniors Centre",
-    "stop_code":0316,
+    "stop_code":316,
     "stop_name":"Woodlawn Rd. E. at opposite Seniors Centre",
     "stop_desc":"",
     "stop_lat":43.568502,
@@ -6361,7 +6361,7 @@
   },
   {
     "stop_id":"Route3A-0317_Woodlawn Rd. E. at Fairway Lane",
-    "stop_code":0317,
+    "stop_code":317,
     "stop_name":"Woodlawn Rd. E. at Fairway Lane",
     "stop_desc":"",
     "stop_lat":43.569297,
@@ -6373,7 +6373,7 @@
   },
   {
     "stop_id":"Route3A-0318_Woodlawn Rd. E. at Golfview Dr.",
-    "stop_code":0318,
+    "stop_code":318,
     "stop_name":"Woodlawn Rd. E. at Golfview Dr.",
     "stop_desc":"",
     "stop_lat":43.572001,
@@ -6385,7 +6385,7 @@
   },
   {
     "stop_id":"Route3A-0319_Inverness Dr. at Glenbrook Dr.",
-    "stop_code":0319,
+    "stop_code":319,
     "stop_name":"Inverness Dr. at Glenbrook Dr.",
     "stop_desc":"",
     "stop_lat":43.574348,
@@ -6397,7 +6397,7 @@
   },
   {
     "stop_id":"Route3A-0320_Inverness Dr. at Simmonds Dr.",
-    "stop_code":0320,
+    "stop_code":320,
     "stop_name":"Inverness Dr. at Simmonds Dr.",
     "stop_desc":"",
     "stop_lat":43.576641,
@@ -6409,7 +6409,7 @@
   },
   {
     "stop_id":"Route3A-0321_Victoria Rd. N. at Trillium Waldorf",
-    "stop_code":0321,
+    "stop_code":321,
     "stop_name":"Victoria Rd. N. at Trillium Waldorf",
     "stop_desc":"",
     "stop_lat":43.579419,
@@ -6421,7 +6421,7 @@
   },
   {
     "stop_id":"Route3A-0322_Victoria Rd. N. at Woodlawn Rd. E.",
-    "stop_code":0322,
+    "stop_code":322,
     "stop_name":"Victoria Rd. N. at Woodlawn Rd. E.",
     "stop_desc":"",
     "stop_lat":43.580587,
@@ -6433,7 +6433,7 @@
   },
   {
     "stop_id":"Route3A-0323_Victoria Rd. N . at Delta St.",
-    "stop_code":0323,
+    "stop_code":323,
     "stop_name":"Victoria Rd. N . at Delta St.",
     "stop_desc":"",
     "stop_lat":43.578088,
@@ -6445,7 +6445,7 @@
   },
   {
     "stop_id":"Route3A-0324_Victoria Rd. N. at Speedvale Ave. E.",
-    "stop_code":0324,
+    "stop_code":324,
     "stop_name":"Victoria Rd. N. at Speedvale Ave. E.",
     "stop_desc":"",
     "stop_lat":43.574215,
@@ -6457,7 +6457,7 @@
   },
   {
     "stop_id":"Route3A-0325_Victoria Rd. N. at Eramosa Rd.",
-    "stop_code":0325,
+    "stop_code":325,
     "stop_name":"Victoria Rd. N. at Eramosa Rd.",
     "stop_desc":"",
     "stop_lat":43.57071,
@@ -6469,7 +6469,7 @@
   },
   {
     "stop_id":"Route3A-0326_Victoria Rd. N. at St. Paul's Church",
-    "stop_code":0326,
+    "stop_code":326,
     "stop_name":"Victoria Rd. N. at St. Paul's Church",
     "stop_desc":"",
     "stop_lat":43.569232,
@@ -6481,7 +6481,7 @@
   },
   {
     "stop_id":"Route3A-0327_Eastview Rd. at Glenburnie Dr.",
-    "stop_code":0327,
+    "stop_code":327,
     "stop_name":"Eastview Rd. at Glenburnie Dr.",
     "stop_desc":"",
     "stop_lat":43.566676,
@@ -6493,7 +6493,7 @@
   },
   {
     "stop_id":"Route3A-0328_Eastview Rd. at Mountford Dr.",
-    "stop_code":0328,
+    "stop_code":328,
     "stop_name":"Eastview Rd. at Mountford Dr.",
     "stop_desc":"",
     "stop_lat":43.565338,
@@ -6505,7 +6505,7 @@
   },
   {
     "stop_id":"Route3A-0329_Eastview Rd. at Auden Rd.",
-    "stop_code":0329,
+    "stop_code":329,
     "stop_name":"Eastview Rd. at Auden Rd.",
     "stop_desc":"",
     "stop_lat":43.567369,
@@ -6517,7 +6517,7 @@
   },
   {
     "stop_id":"Route3A-0330_Eastview Rd. at Summit Ridge Dr.",
-    "stop_code":0330,
+    "stop_code":330,
     "stop_name":"Eastview Rd. at Summit Ridge Dr.",
     "stop_desc":"",
     "stop_lat":43.572509,
@@ -6529,7 +6529,7 @@
   },
   {
     "stop_id":"Route3A-0331_Watson Pkwy N. at Grange Rd.",
-    "stop_code":0331,
+    "stop_code":331,
     "stop_name":"Watson Pkwy N. at Grange Rd.",
     "stop_desc":"",
     "stop_lat":43.570255,
@@ -6541,7 +6541,7 @@
   },
   {
     "stop_id":"Route3A-0332_Watson Pkwy N. at Fleming Rd.",
-    "stop_code":0332,
+    "stop_code":332,
     "stop_name":"Watson Pkwy N. at Fleming Rd.",
     "stop_desc":"",
     "stop_lat":43.573466,
@@ -6553,7 +6553,7 @@
   },
   {
     "stop_id":"Route3A-0333_Watson Pkwy N. at Library",
-    "stop_code":0333,
+    "stop_code":333,
     "stop_name":"Watson Pkwy N. at Library",
     "stop_desc":"",
     "stop_lat":43.570527,
@@ -6565,7 +6565,7 @@
   },
   {
     "stop_id":"Route3A-0334_York Rd. At Watson Pkwy N.",
-    "stop_code":0334,
+    "stop_code":334,
     "stop_name":"York Rd. At Watson Pkwy N.",
     "stop_desc":"",
     "stop_lat":43.566571,
@@ -6577,7 +6577,7 @@
   },
   {
     "stop_id":"Route3A-0335_York Rd. at Yorkhaven Pl.",
-    "stop_code":0335,
+    "stop_code":335,
     "stop_name":"York Rd. at Yorkhaven Pl.",
     "stop_desc":"",
     "stop_lat":43.56144,
@@ -6589,7 +6589,7 @@
   },
   {
     "stop_id":"Route3A-0336_York Rd. at Royal City Jaycees Park",
-    "stop_code":0336,
+    "stop_code":336,
     "stop_name":"York Rd. at Royal City Jaycees Park",
     "stop_desc":"",
     "stop_lat":43.557049,
@@ -6601,7 +6601,7 @@
   },
   {
     "stop_id":"Route3A-0337_York Rd. at Beaumont Cres.",
-    "stop_code":0337,
+    "stop_code":337,
     "stop_name":"York Rd. at Beaumont Cres.",
     "stop_desc":"",
     "stop_lat":43.554908,
@@ -6613,7 +6613,7 @@
   },
   {
     "stop_id":"Route3A-0338_Victoria Rd. at York Rd.",
-    "stop_code":0338,
+    "stop_code":338,
     "stop_name":"Victoria Rd. at York Rd.",
     "stop_desc":"",
     "stop_lat":43.551612,
@@ -6625,7 +6625,7 @@
   },
   {
     "stop_id":"Route3A-0339_Stone Rd. E. at Victoria Rd. S.",
-    "stop_code":0339,
+    "stop_code":339,
     "stop_name":"Stone Rd. E. at Victoria Rd. S.",
     "stop_desc":"",
     "stop_lat":43.539442,
@@ -6637,7 +6637,7 @@
   },
   {
     "stop_id":"Route3A-0340_Stone Rd. E. at Arbour Medical Centre",
-    "stop_code":0340,
+    "stop_code":340,
     "stop_name":"Stone Rd. E. at Arbour Medical Centre",
     "stop_desc":"",
     "stop_lat":43.533696,
@@ -6649,7 +6649,7 @@
   },
   {
     "stop_id":"Route3A-0341_University Centre",
-    "stop_code":0341,
+    "stop_code":341,
     "stop_name":"University Centre",
     "stop_desc":"",
     "stop_lat":43.530139,
@@ -6661,7 +6661,7 @@
   },
   {
     "stop_id":"Route3A-0342_Gordon St. at Vet College",
-    "stop_code":0342,
+    "stop_code":342,
     "stop_name":"Gordon St. at Vet College",
     "stop_desc":"",
     "stop_lat":43.531442,
@@ -6673,7 +6673,7 @@
   },
   {
     "stop_id":"Route3A-0343_Gordon St. at Macdonald Stewart Art Centre",
-    "stop_code":0343,
+    "stop_code":343,
     "stop_name":"Gordon St. at Macdonald Stewart Art Centre",
     "stop_desc":"",
     "stop_lat":43.532842,
@@ -6685,7 +6685,7 @@
   },
   {
     "stop_id":"Route3A-0344_Gordon St. at Dormie Lane",
-    "stop_code":0344,
+    "stop_code":344,
     "stop_name":"Gordon St. at Dormie Lane",
     "stop_desc":"",
     "stop_lat":43.536904,
@@ -6697,7 +6697,7 @@
   },
   {
     "stop_id":"Route3A-0345_Gordon St. at Water St.",
-    "stop_code":0345,
+    "stop_code":345,
     "stop_name":"Gordon St. at Water St.",
     "stop_desc":"",
     "stop_lat":43.538124,
@@ -6709,7 +6709,7 @@
   },
   {
     "stop_id":"Route3A-0348_Guelph Central Station",
-    "stop_code":0348,
+    "stop_code":348,
     "stop_name":"Guelph Central Station",
     "stop_desc":"",
     "stop_lat":43.545180,
@@ -6721,7 +6721,7 @@
   },
   {
     "stop_id":"Route5-0500_Guelph Central Station",
-    "stop_code":0500,
+    "stop_code":500,
     "stop_name":"Guelph Central Station",
     "stop_desc":"",
     "stop_lat":43.545180,
@@ -6733,7 +6733,7 @@
   },
   {
     "stop_id":"Route5-0501_Gordon St. at Nottingham St.",
-    "stop_code":0501,
+    "stop_code":501,
     "stop_name":"Gordon St. at Nottingham St.",
     "stop_desc":"",
     "stop_lat":43.541833,
@@ -6745,7 +6745,7 @@
   },
   {
     "stop_id":"Route5-0502_Gordon St. at Wellington St.",
-    "stop_code":0502,
+    "stop_code":502,
     "stop_name":"Gordon St. at Wellington St.",
     "stop_desc":"",
     "stop_lat":43.540815,
@@ -6757,7 +6757,7 @@
   },
   {
     "stop_id":"Route5-0503_Gordon St. at Water St.",
-    "stop_code":0503,
+    "stop_code":503,
     "stop_name":"Gordon St. at Water St.",
     "stop_desc":"",
     "stop_lat":43.53833,
@@ -6769,7 +6769,7 @@
   },
   {
     "stop_id":"Route5-0504_Gordon St. at Forbes Ave.",
-    "stop_code":0504,
+    "stop_code":504,
     "stop_name":"Gordon St. at Forbes Ave.",
     "stop_desc":"",
     "stop_lat":43.537154,
@@ -6781,7 +6781,7 @@
   },
   {
     "stop_id":"Route5-0505_Gordon St. at Dean Ave.",
-    "stop_code":0505,
+    "stop_code":505,
     "stop_name":"Gordon St. at Dean Ave.",
     "stop_desc":"",
     "stop_lat":43.534009,
@@ -6793,7 +6793,7 @@
   },
   {
     "stop_id":"Route5-0506_Gordon St. at College Ave.",
-    "stop_code":0506,
+    "stop_code":506,
     "stop_name":"Gordon St. at College Ave.",
     "stop_desc":"",
     "stop_lat":43.531512,
@@ -6805,7 +6805,7 @@
   },
   {
     "stop_id":"Route5-0507_University Centre Arrive",
-    "stop_code":0507,
+    "stop_code":507,
     "stop_name":"University Centre Arrive",
     "stop_desc":"",
     "stop_lat":43.529524,
@@ -6817,7 +6817,7 @@
   },
   {
     "stop_id":"Route5-0507_University Centre",
-    "stop_code":0507,
+    "stop_code":507,
     "stop_name":"University Centre",
     "stop_desc":"",
     "stop_lat":43.529524,
@@ -6829,7 +6829,7 @@
   },
   {
     "stop_id":"Route5-0508_Gordon St. at Stone Rd. W.",
-    "stop_code":0508,
+    "stop_code":508,
     "stop_name":"Gordon St. at Stone Rd. W.",
     "stop_desc":"",
     "stop_lat":43.527351,
@@ -6841,7 +6841,7 @@
   },
   {
     "stop_id":"Route5-0509_Gordon St. at Harvard Rd.",
-    "stop_code":0509,
+    "stop_code":509,
     "stop_name":"Gordon St. at Harvard Rd.",
     "stop_desc":"",
     "stop_lat":43.525457,
@@ -6853,7 +6853,7 @@
   },
   {
     "stop_id":"Route5-0510_Gordon St. at Kortright Rd.",
-    "stop_code":0510,
+    "stop_code":510,
     "stop_name":"Gordon St. at Kortright Rd.",
     "stop_desc":"",
     "stop_lat":43.522309,
@@ -6865,7 +6865,7 @@
   },
   {
     "stop_id":"Route5-0511_Gordon St. at Harts Lane",
-    "stop_code":0511,
+    "stop_code":511,
     "stop_name":"Gordon St. at Harts Lane",
     "stop_desc":"",
     "stop_lat":43.519571,
@@ -6877,7 +6877,7 @@
   },
   {
     "stop_id":"Route5-0512_1155 Gordon St.",
-    "stop_code":0512,
+    "stop_code":512,
     "stop_name":"1155 Gordon St.",
     "stop_desc":"",
     "stop_lat":43.518045,
@@ -6889,7 +6889,7 @@
   },
   {
     "stop_id":"Route5-0513_Gordon St. at Edinburgh Rd. S.",
-    "stop_code":0513,
+    "stop_code":513,
     "stop_name":"Gordon St. at Edinburgh Rd. S.",
     "stop_desc":"",
     "stop_lat":43.516595,
@@ -6901,7 +6901,7 @@
   },
   {
     "stop_id":"Route5-0514_Arkell Rd. at Gordon St.",
-    "stop_code":0514,
+    "stop_code":514,
     "stop_name":"Arkell Rd. at Gordon St.",
     "stop_desc":"",
     "stop_lat":43.514317,
@@ -6913,7 +6913,7 @@
   },
   {
     "stop_id":"Route5-0515_Arkell Rd. at Ridgeway  Ave.",
-    "stop_code":0515,
+    "stop_code":515,
     "stop_name":"Arkell Rd. at Ridgeway  Ave.",
     "stop_desc":"",
     "stop_lat":43.516206,
@@ -6925,7 +6925,7 @@
   },
   {
     "stop_id":"Route5-0516_Summerfield Dr. at Amsterdam Cres.",
-    "stop_code":0516,
+    "stop_code":516,
     "stop_name":"Summerfield Dr. at Amsterdam Cres.",
     "stop_desc":"",
     "stop_lat":43.517618,
@@ -6937,7 +6937,7 @@
   },
   {
     "stop_id":"Route5-0517_Summerfield Dr. at Cummings Crt.",
-    "stop_code":0517,
+    "stop_code":517,
     "stop_name":"Summerfield Dr. at Cummings Crt.",
     "stop_desc":"",
     "stop_lat":43.515529,
@@ -6949,7 +6949,7 @@
   },
   {
     "stop_id":"Route5-0518_Summerfield Dr. at Bright Lane",
-    "stop_code":0518,
+    "stop_code":518,
     "stop_name":"Summerfield Dr. at Bright Lane",
     "stop_desc":"",
     "stop_lat":43.516626,
@@ -6961,7 +6961,7 @@
   },
   {
     "stop_id":"Route5-0519_Summerfield Dr. at Victoria Rd. S.",
-    "stop_code":0519,
+    "stop_code":519,
     "stop_name":"Summerfield Dr. at Victoria Rd. S.",
     "stop_desc":"",
     "stop_lat":43.519835,
@@ -6973,7 +6973,7 @@
   },
   {
     "stop_id":"Route5-0520_Frederick Dr. at Waterford Dr.",
-    "stop_code":0520,
+    "stop_code":520,
     "stop_name":"Frederick Dr. at Waterford Dr.",
     "stop_desc":"",
     "stop_lat":43.515015,
@@ -6985,7 +6985,7 @@
   },
   {
     "stop_id":"Route5-0521_Goodwin Dr. at Ray Cres.",
-    "stop_code":0521,
+    "stop_code":521,
     "stop_name":"Goodwin Dr. at Ray Cres.",
     "stop_desc":"",
     "stop_lat":43.511743,
@@ -6997,7 +6997,7 @@
   },
   {
     "stop_id":"Route5-0522_Goodwin Dr. at Orin Reid Park",
-    "stop_code":0522,
+    "stop_code":522,
     "stop_name":"Goodwin Dr. at Orin Reid Park",
     "stop_desc":"",
     "stop_lat":43.508079,
@@ -7009,7 +7009,7 @@
   },
   {
     "stop_id":"Route5-0523_Goodwin Dr. at Sinclair St.",
-    "stop_code":0523,
+    "stop_code":523,
     "stop_name":"Goodwin Dr. at Sinclair St.",
     "stop_desc":"",
     "stop_lat":43.505911,
@@ -7021,7 +7021,7 @@
   },
   {
     "stop_id":"Route5-0524_Goodwin Dr. at Darling Cres.",
-    "stop_code":0524,
+    "stop_code":524,
     "stop_name":"Goodwin Dr. at Darling Cres.",
     "stop_desc":"",
     "stop_lat":43.504005,
@@ -7033,7 +7033,7 @@
   },
   {
     "stop_id":"Route5-0525_Goodwin Dr. at Eugene Dr.",
-    "stop_code":0525,
+    "stop_code":525,
     "stop_name":"Goodwin Dr. at Eugene Dr.",
     "stop_desc":"",
     "stop_lat":43.503149,
@@ -7045,7 +7045,7 @@
   },
   {
     "stop_id":"Route5-0526_Farley Dr. at Porter Dr.",
-    "stop_code":0526,
+    "stop_code":526,
     "stop_name":"Farley Dr. at Porter Dr.",
     "stop_desc":"",
     "stop_lat":43.504066,
@@ -7057,7 +7057,7 @@
   },
   {
     "stop_id":"Route5-0527_Pine Ridge Dr. at Periwinkle Way",
-    "stop_code":0527,
+    "stop_code":527,
     "stop_name":"Pine Ridge Dr. at Periwinkle Way",
     "stop_desc":"",
     "stop_lat":43.508404,
@@ -7069,7 +7069,7 @@
   },
   {
     "stop_id":"Route5-0528_Gordon St. at Lowes Rd.",
-    "stop_code":0528,
+    "stop_code":528,
     "stop_name":"Gordon St. at Lowes Rd.",
     "stop_desc":"",
     "stop_lat":43.509005,
@@ -7081,7 +7081,7 @@
   },
   {
     "stop_id":"Route5-0529_Gordon St. at Continuing Education",
-    "stop_code":0529,
+    "stop_code":529,
     "stop_name":"Gordon St. at Continuing Education",
     "stop_desc":"",
     "stop_lat":43.511767,
@@ -7093,7 +7093,7 @@
   },
   {
     "stop_id":"Route5-0530_Gordon St. at Arkell Rd.",
-    "stop_code":0530,
+    "stop_code":530,
     "stop_name":"Gordon St. at Arkell Rd.",
     "stop_desc":"",
     "stop_lat":43.514027,
@@ -7105,7 +7105,7 @@
   },
   {
     "stop_id":"Route5-0531_Gordon St. at Valley Rd.",
-    "stop_code":0531,
+    "stop_code":531,
     "stop_name":"Gordon St. at Valley Rd.",
     "stop_desc":"",
     "stop_lat":43.516653,
@@ -7117,7 +7117,7 @@
   },
   {
     "stop_id":"Route5-0532_Gordon St. at Landsdown Dr.",
-    "stop_code":0532,
+    "stop_code":532,
     "stop_name":"Gordon St. at Landsdown Dr.",
     "stop_desc":"",
     "stop_lat":43.518854,
@@ -7129,7 +7129,7 @@
   },
   {
     "stop_id":"Route5-0533_Gordon St. at Harts Lane",
-    "stop_code":0533,
+    "stop_code":533,
     "stop_name":"Gordon St. at Harts Lane",
     "stop_desc":"",
     "stop_lat":43.519609,
@@ -7141,7 +7141,7 @@
   },
   {
     "stop_id":"Route5-0534_1030 Gordon St.",
-    "stop_code":0534,
+    "stop_code":534,
     "stop_name":"1030 Gordon St.",
     "stop_desc":"",
     "stop_lat":43.520895,
@@ -7153,7 +7153,7 @@
   },
   {
     "stop_id":"Route5-0535_Gordon St. at Kortright Rd.",
-    "stop_code":0535,
+    "stop_code":535,
     "stop_name":"Gordon St. at Kortright Rd.",
     "stop_desc":"",
     "stop_lat":43.522721,
@@ -7165,7 +7165,7 @@
   },
   {
     "stop_id":"Route5-0536_Gordon St. at Hands Dr.",
-    "stop_code":0536,
+    "stop_code":536,
     "stop_name":"Gordon St. at Hands Dr.",
     "stop_desc":"",
     "stop_lat":43.524266,
@@ -7177,7 +7177,7 @@
   },
   {
     "stop_id":"Route5-0537_Gordon St. at Monticello Cres.",
-    "stop_code":0537,
+    "stop_code":537,
     "stop_name":"Gordon St. at Monticello Cres.",
     "stop_desc":"",
     "stop_lat":43.525832,
@@ -7189,7 +7189,7 @@
   },
   {
     "stop_id":"Route5-0538_University Centre Arrive",
-    "stop_code":0538,
+    "stop_code":538,
     "stop_name":"University Centre Arrive",
     "stop_desc":"",
     "stop_lat":43.527039,
@@ -7201,7 +7201,7 @@
   },
   {
     "stop_id":"Route5-0538_University Centre",
-    "stop_code":0538,
+    "stop_code":538,
     "stop_name":"University Centre",
     "stop_desc":"",
     "stop_lat":43.527039,
@@ -7213,7 +7213,7 @@
   },
   {
     "stop_id":"Route5-0539_Gordon St. at Vet College",
-    "stop_code":0539,
+    "stop_code":539,
     "stop_name":"Gordon St. at Vet College",
     "stop_desc":"",
     "stop_lat":43.531442,
@@ -7225,7 +7225,7 @@
   },
   {
     "stop_id":"Route5-0540_Gordon St. at Macdonald Stewart Art Centre",
-    "stop_code":0540,
+    "stop_code":540,
     "stop_name":"Gordon St. at Macdonald Stewart Art Centre",
     "stop_desc":"",
     "stop_lat":43.532842,
@@ -7237,7 +7237,7 @@
   },
   {
     "stop_id":"Route5-0541_Gordon St. at Dormie Lane",
-    "stop_code":0541,
+    "stop_code":541,
     "stop_name":"Gordon St. at Dormie Lane",
     "stop_desc":"",
     "stop_lat":43.536904,
@@ -7249,7 +7249,7 @@
   },
   {
     "stop_id":"Route5-0542_Gordon St. at Water St.",
-    "stop_code":0542,
+    "stop_code":542,
     "stop_name":"Gordon St. at Water St.",
     "stop_desc":"",
     "stop_lat":43.538124,
@@ -7261,7 +7261,7 @@
   },
   {
     "stop_id":"Route5-0543_Gordon St. at Wellington St.",
-    "stop_code":0543,
+    "stop_code":543,
     "stop_name":"Gordon St. at Wellington St.",
     "stop_desc":"",
     "stop_lat":43.541072,
@@ -7273,7 +7273,7 @@
   },
   {
     "stop_id":"Route5-0544_Gordon St. at Harvey's",
-    "stop_code":0544,
+    "stop_code":544,
     "stop_name":"Gordon St. at Harvey's",
     "stop_desc":"",
     "stop_lat":43.541884,
@@ -7285,7 +7285,7 @@
   },
   {
     "stop_id":"Route5-0545_City Hall",
-    "stop_code":0545,
+    "stop_code":545,
     "stop_name":"City Hall",
     "stop_desc":"",
     "stop_lat":43.543346,
@@ -7297,7 +7297,7 @@
   },
   {
     "stop_id":"Route5-0546_Guelph Central Station",
-    "stop_code":0546,
+    "stop_code":546,
     "stop_name":"Guelph Central Station",
     "stop_desc":"",
     "stop_lat":43.545180,
@@ -7585,7 +7585,7 @@
   },
   {
     "stop_id":"Route8-0800_Guelph Central Station",
-    "stop_code":0800,
+    "stop_code":800,
     "stop_name":"Guelph Central Station",
     "stop_desc":"",
     "stop_lat":43.545180,
@@ -7597,7 +7597,7 @@
   },
   {
     "stop_id":"Route8-0801_Wyndham St. at Farquhar St.",
-    "stop_code":0801,
+    "stop_code":801,
     "stop_name":"Wyndham St. at Farquhar St.",
     "stop_desc":"",
     "stop_lat":43.543617,
@@ -7609,7 +7609,7 @@
   },
   {
     "stop_id":"Route8-0802_Wellington St. at KFC",
-    "stop_code":0802,
+    "stop_code":802,
     "stop_name":"Wellington St. at KFC",
     "stop_desc":"",
     "stop_lat":43.542276,
@@ -7621,7 +7621,7 @@
   },
   {
     "stop_id":"Route8-0803_Gordon St. at Water St.",
-    "stop_code":0803,
+    "stop_code":803,
     "stop_name":"Gordon St. at Water St.",
     "stop_desc":"",
     "stop_lat":43.5382652,
@@ -7633,7 +7633,7 @@
   },
   {
     "stop_id":"Route8-0804_Water St. at McCrae Blvd.",
-    "stop_code":0804,
+    "stop_code":804,
     "stop_name":"Water St. at McCrae Blvd.",
     "stop_desc":"",
     "stop_lat":43.536163,
@@ -7645,7 +7645,7 @@
   },
   {
     "stop_id":"Route8-0805_Water St. at Maple St.",
-    "stop_code":0805,
+    "stop_code":805,
     "stop_name":"Water St. at Maple St.",
     "stop_desc":"",
     "stop_lat":43.535130,
@@ -7657,7 +7657,7 @@
   },
   {
     "stop_id":"Route8-0806_Maple St. at Forest St.",
-    "stop_code":0806,
+    "stop_code":806,
     "stop_name":"Maple St. at Forest St.",
     "stop_desc":"",
     "stop_lat":43.531946,
@@ -7669,7 +7669,7 @@
   },
   {
     "stop_id":"Route8-0807_Forest St. at Park",
-    "stop_code":0807,
+    "stop_code":807,
     "stop_name":"Forest St. at Park",
     "stop_desc":"",
     "stop_lat":43.530027,
@@ -7681,7 +7681,7 @@
   },
   {
     "stop_id":"Route8-0808_Edinburgh Rd. S. at Maplewood Dr.",
-    "stop_code":0808,
+    "stop_code":808,
     "stop_name":"Edinburgh Rd. S. at Maplewood Dr.",
     "stop_desc":"",
     "stop_lat":43.527403,
@@ -7693,7 +7693,7 @@
   },
   {
     "stop_id":"Route8-0809_College Ave. W. at Edinburgh Rd.",
-    "stop_code":0809,
+    "stop_code":809,
     "stop_name":"College Ave. W. at Edinburgh Rd.",
     "stop_desc":"",
     "stop_lat":43.525295,
@@ -7705,7 +7705,7 @@
   },
   {
     "stop_id":"Route8-0810_College Ave. W. at Centennial",
-    "stop_code":0810,
+    "stop_code":810,
     "stop_name":"College Ave. W. at Centennial",
     "stop_desc":"",
     "stop_lat":43.521545,
@@ -7717,7 +7717,7 @@
   },
   {
     "stop_id":"Route8-0811_129 Janefield Ave.",
-    "stop_code":0811,
+    "stop_code":811,
     "stop_name":"129 Janefield Ave.",
     "stop_desc":"",
     "stop_lat":43.517968,
@@ -7729,7 +7729,7 @@
   },
   {
     "stop_id":"Route8-0812_Janefield Ave. at Scottsdale Dr.",
-    "stop_code":0812,
+    "stop_code":812,
     "stop_name":"Janefield Ave. at Scottsdale Dr.",
     "stop_desc":"",
     "stop_lat":43.516792,
@@ -7741,7 +7741,7 @@
   },
   {
     "stop_id":"Route8-0813_Stone Road Mall",
-    "stop_code":0813,
+    "stop_code":813,
     "stop_name":"Stone Road Mall",
     "stop_desc":"",
     "stop_lat":43.518846,
@@ -7753,7 +7753,7 @@
   },
   {
     "stop_id":"Route8-0814_Scottsdale Dr. at Wilsonview Ave.",
-    "stop_code":0814,
+    "stop_code":814,
     "stop_name":"Scottsdale Dr. at Wilsonview Ave.",
     "stop_desc":"",
     "stop_lat":43.52097726,
@@ -7765,7 +7765,7 @@
   },
   {
     "stop_id":"Route8-0815_220 Scottsdale Dr.",
-    "stop_code":0815,
+    "stop_code":815,
     "stop_name":"220 Scottsdale Dr.",
     "stop_desc":"",
     "stop_lat":43.521683,
@@ -7777,7 +7777,7 @@
   },
   {
     "stop_id":"Route8-0816_Scottsdale Dr. at College Ave. W.",
-    "stop_code":0816,
+    "stop_code":816,
     "stop_name":"Scottsdale Dr. at College Ave. W.",
     "stop_desc":"",
     "stop_lat":43.52328,
@@ -7789,7 +7789,7 @@
   },
   {
     "stop_id":"Route8-0817_College Ave. W. at Meadowcroft",
-    "stop_code":0817,
+    "stop_code":817,
     "stop_name":"College Ave. W. at Meadowcroft",
     "stop_desc":"",
     "stop_lat":43.524313,
@@ -7801,7 +7801,7 @@
   },
   {
     "stop_id":"Route8-0818_Edinburgh Rd. S. at Floral Dr.",
-    "stop_code":0818,
+    "stop_code":818,
     "stop_name":"Edinburgh Rd. S. at Floral Dr.",
     "stop_desc":"",
     "stop_lat":43.526849,
@@ -7813,7 +7813,7 @@
   },
   {
     "stop_id":"Route8-0819_Edinburgh Rd. S. at Lockyer Rd.",
-    "stop_code":0819,
+    "stop_code":819,
     "stop_name":"Edinburgh Rd. S. at Lockyer Rd.",
     "stop_desc":"",
     "stop_lat":43.528513,
@@ -7825,7 +7825,7 @@
   },
   {
     "stop_id":"Route8-0820_Edinburgh Rd. S. at Municipal St.",
-    "stop_code":0820,
+    "stop_code":820,
     "stop_name":"Edinburgh Rd. S. at Municipal St.",
     "stop_desc":"",
     "stop_lat":43.529964,
@@ -7837,7 +7837,7 @@
   },
   {
     "stop_id":"Route8-0821_Edinburgh Rd. S. at Honey Cres.",
-    "stop_code":0821,
+    "stop_code":821,
     "stop_name":"Edinburgh Rd. S. at Honey Cres.",
     "stop_desc":"",
     "stop_lat":43.532367,
@@ -7849,7 +7849,7 @@
   },
   {
     "stop_id":"Route8-0822_Bristol St. at McGee St.",
-    "stop_code":0822,
+    "stop_code":822,
     "stop_name":"Bristol St. at McGee St.",
     "stop_desc":"",
     "stop_lat":43.535829,
@@ -7861,7 +7861,7 @@
   },
   {
     "stop_id":"Route8-0823_Yorkshire St. S. at Waterloo Ave.",
-    "stop_code":0823,
+    "stop_code":823,
     "stop_name":"Yorkshire St. S. at Waterloo Ave.",
     "stop_desc":"",
     "stop_lat":43.537985,
@@ -7873,7 +7873,7 @@
   },
   {
     "stop_id":"Route8-0824_Waterloo Ave. at Glasgow St.",
-    "stop_code":0824,
+    "stop_code":824,
     "stop_name":"Waterloo Ave. at Glasgow St.",
     "stop_desc":"",
     "stop_lat":43.539053,
@@ -7885,7 +7885,7 @@
   },
   {
     "stop_id":"Route8-0825_Waterloo Ave. at Norfolk St.",
-    "stop_code":0825,
+    "stop_code":825,
     "stop_name":"Waterloo Ave. at Norfolk St.",
     "stop_desc":"",
     "stop_lat":43.541228,
@@ -7897,7 +7897,7 @@
   },
   {
     "stop_id":"Route8-0826_Guelph City Hall",
-    "stop_code":0826,
+    "stop_code":826,
     "stop_name":"Guelph City Hall",
     "stop_desc":"",
     "stop_lat":43.543346,
@@ -7909,7 +7909,7 @@
   },
   {
     "stop_id":"Route8-0827_Guelph Central Station",
-    "stop_code":0827,
+    "stop_code":827,
     "stop_name":"Guelph Central Station",
     "stop_desc":"",
     "stop_lat":43.545180,
@@ -7921,7 +7921,7 @@
   },
   {
     "stop_id":"Route9-0900_Guelph Central Station",
-    "stop_code":0900,
+    "stop_code":900,
     "stop_name":"Guelph Central Station",
     "stop_desc":"",
     "stop_lat":43.545180,
@@ -7933,7 +7933,7 @@
   },
   {
     "stop_id":"Route9-0901_3 Waterloo Ave.",
-    "stop_code":0901,
+    "stop_code":901,
     "stop_name":"3 Waterloo Ave.",
     "stop_desc":"",
     "stop_lat":43.541423,
@@ -7945,7 +7945,7 @@
   },
   {
     "stop_id":"Route9-0902_Waterloo Ave. at Glasgow St.",
-    "stop_code":0902,
+    "stop_code":902,
     "stop_name":"Waterloo Ave. at Glasgow St.",
     "stop_desc":"",
     "stop_lat":43.538905,
@@ -7957,7 +7957,7 @@
   },
   {
     "stop_id":"Route9-0903_Waterloo Ave. at Yorkshire St. S.",
-    "stop_code":0903,
+    "stop_code":903,
     "stop_name":"Waterloo Ave. at Yorkshire St.S.",
     "stop_desc":"",
     "stop_lat":43.536579,
@@ -7969,7 +7969,7 @@
   },
   {
     "stop_id":"Route9-0904_225 Waterloo Ave.",
-    "stop_code":0904,
+    "stop_code":904,
     "stop_name":"225 Waterloo Ave.",
     "stop_desc":"",
     "stop_lat":43.535168,
@@ -7981,7 +7981,7 @@
   },
   {
     "stop_id":"Route9-0905_Waterloo Ave. at Beachwood Ave.",
-    "stop_code":0905,
+    "stop_code":905,
     "stop_name":"Waterloo Ave. at Beachwood Ave.",
     "stop_desc":"",
     "stop_lat":43.531039,
@@ -7993,7 +7993,7 @@
   },
   {
     "stop_id":"Route9-0906_387 Waterloo Ave.",
-    "stop_code":0906,
+    "stop_code":906,
     "stop_name":"387 Waterloo Ave.",
     "stop_desc":"",
     "stop_lat":43.531329,
@@ -8005,7 +8005,7 @@
   },
   {
     "stop_id":"Route9-0907_659 Wellington St. N.",
-    "stop_code":0907,
+    "stop_code":907,
     "stop_name":"659 Wellington St. N.",
     "stop_desc":"",
     "stop_lat":43.522836,
@@ -8017,7 +8017,7 @@
   },
   {
     "stop_id":"Route9-0908_Imperial Rd. S. at Wellington St. N.",
-    "stop_code":0908,
+    "stop_code":908,
     "stop_name":"Imperial Rd. S. at Wellington St. N.",
     "stop_desc":"",
     "stop_lat":43.522844,
@@ -8029,7 +8029,7 @@
   },
   {
     "stop_id":"Route9-0909_Imperial Rd. S. at Stephanie Dr.",
-    "stop_code":0909,
+    "stop_code":909,
     "stop_name":"Imperial Rd. S. at Stephanie Dr.",
     "stop_desc":"",
     "stop_lat":43.523257,
@@ -8041,7 +8041,7 @@
   },
   {
     "stop_id":"Route9-0910_Imperial Rd. S. at Deerpath Dr.",
-    "stop_code":0910,
+    "stop_code":910,
     "stop_name":"Imperial Rd. S. at Deerpath Dr.",
     "stop_desc":"",
     "stop_lat":43.525287,
@@ -8053,7 +8053,7 @@
   },
   {
     "stop_id":"Route9-0911_Imperial Rd. S.  at Paisley St.",
-    "stop_code":0911,
+    "stop_code":911,
     "stop_name":"Imperial Rd. S.  at Paisley St.",
     "stop_desc":"",
     "stop_lat":43.525522,
@@ -8065,7 +8065,7 @@
   },
   {
     "stop_id":"Route9-0912_Paisley Rd. at Zehrs",
-    "stop_code":0912,
+    "stop_code":912,
     "stop_name":"Paisley Rd. at Zehrs",
     "stop_desc":"",
     "stop_lat":43.522527,
@@ -8077,7 +8077,7 @@
   },
   {
     "stop_id":"Route9-0913_Stephanie Dr. at Hollyberry Pl",
-    "stop_code":0913,
+    "stop_code":913,
     "stop_name":"Stephanie Dr. at Hollyberry Pl",
     "stop_desc":"",
     "stop_lat":43.522384,
@@ -8089,7 +8089,7 @@
   },
   {
     "stop_id":"Route9-0914_Stephanie Dr. at Imperial Rd.",
-    "stop_code":0914,
+    "stop_code":914,
     "stop_name":"Stephanie Dr. at Imperial Rd.",
     "stop_desc":"",
     "stop_lat":43.522953,
@@ -8101,7 +8101,7 @@
   },
   {
     "stop_id":"Route9-0915_Imperial Rd. at West Acres Dr.",
-    "stop_code":0915,
+    "stop_code":915,
     "stop_name":"Imperial Rd. at West Acres Dr.",
     "stop_desc":"",
     "stop_lat":43.522296,
@@ -8113,7 +8113,7 @@
   },
   {
     "stop_id":"Route9-0916_Imperial Rd. S. at Tim Hortons",
-    "stop_code":0916,
+    "stop_code":916,
     "stop_name":"Imperial Rd. S. at Tim Hortons",
     "stop_desc":"",
     "stop_lat":43.520752,
@@ -8125,7 +8125,7 @@
   },
   {
     "stop_id":"Route9-0917_Wellington St. W. at Wastewater Treatment Plant",
-    "stop_code":0917,
+    "stop_code":917,
     "stop_name":"Wellington St. W. at Wastewater Treatment Plant",
     "stop_desc":"",
     "stop_lat":43.522873,
@@ -8137,7 +8137,7 @@
   },
   {
     "stop_id":"Route9-0918_364 Waterloo Rd.",
-    "stop_code":0918,
+    "stop_code":918,
     "stop_name":"364 Waterloo Rd.",
     "stop_desc":"",
     "stop_lat":43.531117,
@@ -8149,7 +8149,7 @@
   },
   {
     "stop_id":"Route9-0919_Waterloo Ave. at St. Arnaud St.",
-    "stop_code":0919,
+    "stop_code":919,
     "stop_name":"Waterloo Ave. at St. Arnaud St.",
     "stop_desc":"",
     "stop_lat":43.533616,
@@ -8161,7 +8161,7 @@
   },
   {
     "stop_id":"Route9-0920_180 Waterloo Ave.",
-    "stop_code":0920,
+    "stop_code":920,
     "stop_name":"180 Waterloo Ave.",
     "stop_desc":"",
     "stop_lat":43.536488,
@@ -8173,7 +8173,7 @@
   },
   {
     "stop_id":"Route9-0921_Waterloo Ave. at Glasgow St.",
-    "stop_code":0921,
+    "stop_code":921,
     "stop_name":"Waterloo Ave. at Glasgow St.",
     "stop_desc":"",
     "stop_lat":43.539053,
@@ -8185,7 +8185,7 @@
   },
   {
     "stop_id":"Route9-0922_Waterloo Ave. at Norfolk  St.",
-    "stop_code":0922,
+    "stop_code":922,
     "stop_name":"Waterloo Ave. at Norfolk  St.",
     "stop_desc":"",
     "stop_lat":43.541228,
@@ -8197,7 +8197,7 @@
   },
   {
     "stop_id":"Route9-0923_Guelph City Hall",
-    "stop_code":0923,
+    "stop_code":923,
     "stop_name":"Guelph City Hall",
     "stop_desc":"",
     "stop_lat":43.543346,
@@ -8209,7 +8209,7 @@
   },
   {
     "stop_id":"Route9-0924_Guelph Central Station",
-    "stop_code":0924,
+    "stop_code":924,
     "stop_name":"Guelph Central Station",
     "stop_desc":"",
     "stop_lat":43.545180,

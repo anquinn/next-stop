@@ -5,6 +5,8 @@ function currentLocation(position){
 		//currentlatlng = new google.maps.LatLng(latitude, longitude);
 		console.log ("current position is: " + latitude + ", " + longitude);
 		//show_map(currentlatlng);
+
+		findClosest(latitude,longitude);
 }
 
 /* if geolocation error trigger manual entry */
@@ -36,7 +38,34 @@ function getLocation() {
 	}
 }
 
+function findClosest(lat, lon){
+	//var reader = new FileReader();
+
+	console.log(lat);
+	console.log(lon);
+
+	// $.getJSON( "assets/json/stops.json", function() {
+	//   console.log("success");
+	// });
+
+
+	$.ajax({
+        url: 'assets/json/stops.json',
+        dataType: 'json',
+        success: function(json) {
+        	var stop = json.stop_code;
+            console.log(stop);
+        },
+        error: function () {
+        	alert("failed!");
+        }
+    });
+
+	//console.log("after ajax");
+}
+
 /* kick shit off */
 $(document).ready(function(){
 	getLocation();
 });
+
