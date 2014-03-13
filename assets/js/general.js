@@ -74,7 +74,7 @@ function findClosest(lat, lon){
 	            }
             }
             
-            //Outputting the stop code and name for closest stop
+            /* Outputting the stop code and name for closest stop */
             console.log(currCloseStop.stop_code);
             console.log(currCloseStop.stop_name);
 
