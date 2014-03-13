@@ -44,10 +44,6 @@ function findClosest(lat, lon){
         url: 'assets/json/stops.json',
         dataType: 'json',
         success: function(json) {
-<<<<<<< HEAD
-        	var stop = json.stop_code;
-            console.log(json[1].stop_code);
-=======
         	var closestStop = 50;		/* Distance placeholder */
         	var diffLat = 0;			/* Distance of the latitude from user to stop */
         	var diffLon = 0;			/* Distance of the longititude from user to stop */
@@ -81,8 +77,6 @@ function findClosest(lat, lon){
             /* Outputting the stop code and name for closest stop */
             console.log(currCloseStop.stop_code);
             console.log(currCloseStop.stop_name);
-
->>>>>>> 3f0395f48bc4314703d42b8d65060c50d3953ca4
         },
         error: function () {
         	alert("failed!");
