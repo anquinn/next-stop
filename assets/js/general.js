@@ -54,7 +54,7 @@ function findClosest(lat, lon){
         dataType: 'json',
         success: function(json) {
         	var stop = json.stop_code;
-            console.log(stop);
+            console.log(json[1].stop_code);
         },
         error: function () {
         	alert("failed!");
