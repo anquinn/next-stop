@@ -104,12 +104,25 @@ function crossWithStopTime(busList){
 		url: 'assets/json/stop_times.json',
 		dataType: 'json',
 		success: function(json){
-			console.log(json.length);
+			var i = 0;
+			var j = 0;
+
+			for( i = 0; i < busList.length; i++){
+				for(j = 0; j < json.length; j++){
+
+					if((busList[i].stop_id == json[j].stop_id)){
+						console.log(json[j].stop_id);
+						console.log(json[j].arrival_time);
+					}
+				}
+			}
+
 		},
 		error: function(){
 			console.log("Error");
 		}
 	});
+	console.log("done");
 }
 
 
@@ -124,7 +137,8 @@ function getBusList(busStopInfo, allStops){
 	for(i = 0; i < allStops.length; i++){
 		if(busStopInfo.stop_id == allStops[i].stop_id){
 			busList[j] = allStops[i];
-			console.log(busList[i].stop_id);
+			console.log(busList[j].stop_id);
 		}
 	}
+	crossWithStopTime(busList);
 }
