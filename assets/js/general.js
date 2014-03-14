@@ -76,8 +76,8 @@ function findClosest(lat, lon){
 			}
 			
 			/* Outputting the stop code and name for closest stop */
-			console.log(currCloseStop.stop_code);
-			console.log(currCloseStop.stop_name);
+			// console.log(currCloseStop.stop_code);
+			// console.log(currCloseStop.stop_name);
 
 			$("#closest-stop").html(currCloseStop.stop_name);
 
@@ -115,12 +115,14 @@ function crossWithStopTime(busList){
 			var date = new Date();
 			var currDate = date.toLocaleTimeString();
 
-
+			console.log("Current Time: " + currDate);
 			for( i = 0; i < busList.length; i++){
 				for(j = 0; j < json.length; j++){
 
 					if((busList[i].stop_id === json[j].stop_id)){
-						if(currDate <= json[i].arrival_time){
+						// console.log("currDate: " + currDate);
+						// console.log("stopDate: " + json[j].arrival_time);
+						if(currDate <= json[j].arrival_time){
 							if(stopCount < 3){
 								console.log("stop id: " + json[j].stop_id);
 								console.log("arrival time: " + json[j].arrival_time);
@@ -154,7 +156,6 @@ function getBusList(busStopInfo, allStops){
 	for(i = 0; i < allStops.length; i++){
 		if(busStopInfo.stop_id === allStops[i].stop_id){
 			busList[j] = allStops[i];
-			console.log(busList[j].stop_id);
 		}
 	}
 	crossWithStopTime(busList);
