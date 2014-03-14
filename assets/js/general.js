@@ -111,15 +111,28 @@ function crossWithStopTime(busList){
 		success: function(json){
 			var i = 0;
 			var j = 0;
+			var stopCount = 0;
+			var date = new Date();
+			var currDate = date.toLocaleTimeString();
+
 
 			for( i = 0; i < busList.length; i++){
 				for(j = 0; j < json.length; j++){
 
 					if((busList[i].stop_id === json[j].stop_id)){
-						console.log("stop id: " + json[j].stop_id);
-						console.log("arrival time: " + json[j].arrival_time);
+						if(currDate <= json[i].arrival_time){
+							if(stopCount < 3){
+								console.log("stop id: " + json[j].stop_id);
+								console.log("arrival time: " + json[j].arrival_time);
+								stopCount += 1;
+							}
+							else{
+								break;
+							}
+						}
 					}
 				}
+				stopCount = 0;
 			}
 
 		},
@@ -127,7 +140,6 @@ function crossWithStopTime(busList){
 			console.log("Error");
 		}
 	});
-	console.log("done");
 }
 
 
